@@ -2,7 +2,7 @@
 
 ## Overview
 
-![image-20210622212609011](https://raw.githubusercontent.com/hy-struggle/img/master/markdown/20210622212609.png)
+ ![image](img/IREA_model_)
 
 ## Requirements
 
