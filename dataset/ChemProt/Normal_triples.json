@@ -1,0 +1,1492 @@
+[
+    {
+        "text": "The levels of PSA mRNA decreased 56 and 90% when LNCaP cells were treated with 5 and 10 microM of estramustine, respectively (IC50 = 10.97 +/- 1.68 microM).",
+        "triple_list": [
+            [
+                "estramustine",
+                "CPR:4",
+                "PSA"
+            ]
+        ]
+    },
+    {
+        "text": "Selective inhibition of cyclooxygenase 2 spares renal function and prostaglandin synthesis in cirrhotic rats with ascites.",
+        "triple_list": [
+            [
+                "prostaglandin",
+                "CPR:9",
+                "cyclooxygenase 2"
+            ]
+        ]
+    },
+    {
+        "text": "FMLP/CB-stimulated translocation of cPLA2 to the nuclear envelope assessed by specific immunohistochemical staining also was blocked by FP.",
+        "triple_list": [
+            [
+                "FP",
+                "CPR:4",
+                "cPLA2"
+            ]
+        ]
+    },
+    {
+        "text": "The 5-HT1A agonist activity reported here clearly distinguishes ziprasidone from currently available antipsychotic agents and suggests that this property may play a significant role in its pharmacologic actions.",
+        "triple_list": [
+            [
+                "ziprasidone",
+                "CPR:5",
+                "5-HT1A"
+            ]
+        ]
+    },
+    {
+        "text": "In this study, the activity of the delta-opioid receptor subtype-selective agonist, SB 227122, was investigated in a guinea pig model of citric acid-induced cough.",
+        "triple_list": [
+            [
+                "SB 227122",
+                "CPR:5",
+                "delta-opioid receptor"
+            ]
+        ]
+    },
+    {
+        "text": "A unique cytosolic activity related but distinct from NQO1 catalyses metabolic activation of mitomycin C.",
+        "triple_list": [
+            [
+                "mitomycin C",
+                "CPR:9",
+                "NQO1"
+            ]
+        ]
+    },
+    {
+        "text": "In this report, we present cellular and animal models to demonstrate that NQO1 may play only a minor role in metabolic activation of MMC.",
+        "triple_list": [
+            [
+                "MMC",
+                "CPR:9",
+                "NQO1"
+            ]
+        ]
+    },
+    {
+        "text": "In these tissues, JTH-601, prazosin (a non-selective alpha(1)-adrenoceptor antagonist), and tamsulosin (an alpha(1A)-adrenoceptor antagonist) competitively antagonized contraction in a concentration-dependent manner.",
+        "triple_list": [
+            [
+                "tamsulosin",
+                "false",
+                "alpha(1)-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "These data directly demonstrate that NKCC1 is the major Cl(-) uptake mechanism across the basolateral membrane of acinar cells and is critical for driving saliva secretion in vivo.",
+        "triple_list": [
+            [
+                "Cl(-)",
+                "CPR:9",
+                "NKCC1"
+            ]
+        ]
+    },
+    {
+        "text": "5-HTTLPR S-genotype carriers in both alcohol-dependent and control subjects were expected to show significantly fewer binding sites and a lower dissociation constant.",
+        "triple_list": [
+            [
+                "alcohol",
+                "false",
+                "5-HTTLPR"
+            ]
+        ]
+    },
+    {
+        "text": "No differences concerning 5-HTTLPR-alleles were found in these groups Furthermore, no significant interaction between these parameters and impulsivity was shown in alcohol-dependent subjects.",
+        "triple_list": [
+            [
+                "alcohol",
+                "false",
+                "5-HTTLPR"
+            ]
+        ]
+    },
+    {
+        "text": "Suppression of NF-kappaB activity by sulfasalazine is mediated by direct inhibition of IkappaB kinases alpha and beta.",
+        "triple_list": [
+            [
+                "sulfasalazine",
+                "CPR:4",
+                "NF-kappaB"
+            ]
+        ]
+    },
+    {
+        "text": "In addition, corticosterone levels in splenic tissue or serum and CYP11A1 mRNA expression (mRNA encoding cholesterol side-chain cleavage p450 enzyme) in CD4+ T cells were increased in these mice.",
+        "triple_list": [
+            [
+                "cholesterol",
+                "false",
+                "CYP11A1"
+            ]
+        ]
+    },
+    {
+        "text": "In vivo microdialysis was used to assess the central serotonergic effects and extracellular brain levels of the 5-HT(1B/1D) receptor agonists eletriptan, zolmitriptan and sumatriptan in rats after intravenous and intracerebral administration, while their binding affinities and functional potencies were determined at 5-HT(1B), 5-HT(1D) and 5-HT(1A) receptors.",
+        "triple_list": [
+            [
+                "sumatriptan",
+                "false",
+                "5-HT(1B/1D)"
+            ]
+        ]
+    },
+    {
+        "text": "Efficacy and safety of the factor VIII/von Willebrand factor concentrate, haemate-P/humate-P: ristocetin cofactor unit dosing in patients with von Willebrand disease.",
+        "triple_list": [
+            [
+                "ristocetin",
+                "false",
+                "factor VIII"
+            ]
+        ]
+    },
+    {
+        "text": "Serotonin transporter polymorphisms and measures of impulsivity, aggression, and sensation seeking among African-American cocaine-dependent individuals.",
+        "triple_list": [
+            [
+                "cocaine",
+                "false",
+                "Serotonin transporter"
+            ]
+        ]
+    },
+    {
+        "text": "respectively) for the alpha2C-adrenoceptor in receptor binding and in functional studies (42- and 29-fold, respectively) measuring cAMP changes using a cell-based luciferase reporter gene assay.",
+        "triple_list": [
+            [
+                "cAMP",
+                "false",
+                "alpha2C-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "Efficacies and potencies of these ligands were determined relative to the endogenous ligand beta-endorphin and the common mu agonist, morphine.",
+        "triple_list": [
+            [
+                "morphine",
+                "false",
+                "beta-endorphin"
+            ]
+        ]
+    },
+    {
+        "text": "The development of specific BuChE inhibitors and further experience with the dual enzyme inhibitor rivastigmine will improve understanding of the aetiology of AD and should lead to a wider variety of potent treatment options.",
+        "triple_list": [
+            [
+                "rivastigmine",
+                "CPR:4",
+                "BuChE"
+            ]
+        ]
+    },
+    {
+        "text": "Utilizing agonist-stimulated GTPgammaS autoradiography, we analyzed the ability of preproorphanin FQ (ppOFQ) peptides to stimulate [35S]-GTPgammaS binding in adult rat brain.",
+        "triple_list": [
+            [
+                "[35S]-GTPgammaS",
+                "false",
+                "preproorphanin FQ (ppOFQ) peptides"
+            ]
+        ]
+    },
+    {
+        "text": "Travoprost acid was the most potent PG analog tested in FP receptor functional phosphoinositide turnover assays in the following cell types: human ciliary muscle (EC50 = 1.4 nM), human trabecular meshwork (EC50 = 3.6 nM), and mouse fibroblasts and rat aortic smooth muscle cells (EC50 = 2.6 nM).",
+        "triple_list": [
+            [
+                "phosphoinositide",
+                "false",
+                "FP receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Within this sequence DNase I footprinting revealed that RA induced binding of a nuclear protein complex to an element containing two GT boxes.",
+        "triple_list": [
+            [
+                "RA",
+                "false",
+                "DNase I"
+            ]
+        ]
+    },
+    {
+        "text": "These findings suggest that the mechanism of antiproliferative toxicity of capecitabine is at least partly due to TS inhibitory activity of its active metabolite 5-fluoro-2'-deoxyuridine monophosphate (FdUMP).",
+        "triple_list": [
+            [
+                "FdUMP",
+                "CPR:4",
+                "TS"
+            ]
+        ]
+    },
+    {
+        "text": "Early-onset diarrhea is observed immediately after CPT-11 infusion and probably due to the inhibition of acetylcholinesterase activity, which can be eliminated by administration of atropine.",
+        "triple_list": [
+            [
+                "atropine",
+                "CPR:3",
+                "acetylcholinesterase"
+            ]
+        ]
+    },
+    {
+        "text": "In the present study, age-related changes of pyridoxal 5'-phosphate (PLP) synthesizing enzymes, pyridoxal kinase (PLK) and pyridoxine 5'-phosphate oxidase (PNPO), their protein contents and activities were examined in the gerbil hippocampus proper.",
+        "triple_list": [
+            [
+                "pyridoxine 5'-phosphate",
+                "false",
+                "pyridoxal kinase"
+            ]
+        ]
+    },
+    {
+        "text": "To test the role of nicotinic receptors in the drugs' effects on [3H]-ACh release, mecamylamine (MEC) 100 microM was used to block such receptors.",
+        "triple_list": [
+            [
+                "[3H]-ACh",
+                "false",
+                "nicotinic receptors"
+            ]
+        ]
+    },
+    {
+        "text": "To investigate the capacity of activated PKC to regulate homologous desensitization, we incubated the smooth muscle strips with the combination of both 1 microM PMA and 1 microM fenoterol.",
+        "triple_list": [
+            [
+                "fenoterol",
+                "false",
+                "PKC"
+            ]
+        ]
+    },
+    {
+        "text": "Comparison of captopril and enalapril to study the role of the sulfhydryl-group in improvement of endothelial dysfunction with ACE inhibitors in high dieted methionine mice.",
+        "triple_list": [
+            [
+                "methionine",
+                "false",
+                "ACE"
+            ]
+        ]
+    },
+    {
+        "text": "These results suggested that Captopril can protect the vascular endothelium against the damages induced by L-methionine in rats, and the beneficial effects of Captopril may be related to attenuating the decrease in PON1 activity and NO levels.",
+        "triple_list": [
+            [
+                "NO",
+                "false",
+                "PON1"
+            ]
+        ]
+    },
+    {
+        "text": "At each menstruation a bolus injection of 10 pmol/kg of vasopressin was administered before and during infusion of either 300 microg/min of atosiban or placebo.",
+        "triple_list": [
+            [
+                "atosiban",
+                "false",
+                "vasopressin"
+            ]
+        ]
+    },
+    {
+        "text": "However, N-methyl-phosphatidylserine, which is transported by the plasma membrane flippase at a rate equivalent to PS, is incapable of activating Atp8a1 activity.",
+        "triple_list": [
+            [
+                "PS",
+                "false",
+                "flippase"
+            ]
+        ]
+    },
+    {
+        "text": "Glutamate receptors of the N-methyl-D-asparate (NMDA-) subtype are tetrameric allosteric and ligand-gated calcium channels.",
+        "triple_list": [
+            [
+                "NMDA",
+                "false",
+                "Glutamate receptors"
+            ]
+        ]
+    },
+    {
+        "text": "In addition, arginase activity was measured in the presence of different urea concentrations to simulate azotemia in vitro.",
+        "triple_list": [
+            [
+                "urea",
+                "false",
+                "arginase"
+            ]
+        ]
+    },
+    {
+        "text": "Previously, we reported that l-glutamic acid decarboxylase isoform 65 (GAD65) could be cleaved in vitro to release a stable truncated form which lacks amino acid 1-69 from the N-terminus, GAD65(Delta1-69).",
+        "triple_list": [
+            [
+                "amino acid",
+                "false",
+                "GAD65"
+            ]
+        ]
+    },
+    {
+        "text": "Our purpose was to test the impact of single and/or combined treatment with the AT(1)-receptor blocker candesartan and the HMG-CoA reductase inhibitor rosuvastatin on infarct size and neuroscore in transient cerebral ischemia in rats.",
+        "triple_list": [
+            [
+                "candesartan",
+                "CPR:4",
+                "AT(1)"
+            ]
+        ]
+    },
+    {
+        "text": "Among all the organophosphates tested, the combination of a methyl group and a negatively charged oxygen attached to the P atom, CH3P(O)(O-)-AChE, conferred the greatest protection to the active site of aged or nonaged organophosphoryl conjugates of acetylcholinesterase.",
+        "triple_list": [
+            [
+                "organophosphoryl",
+                "false",
+                "AChE"
+            ]
+        ]
+    },
+    {
+        "text": "Phospholipase C beta (PLC-beta)-coupled G protein-coupled receptor (GPCR) activities traditionally are assessed by measuring Ca2+ triggered by D-myo-inositol 1,4,5-trisphosphate (IP3), a PLC-beta hydrolysis product, or by measuring the production of inositol phosphate using cumbersome radioactive assays.",
+        "triple_list": [
+            [
+                "Ca2+",
+                "false",
+                "GPCR"
+            ]
+        ]
+    },
+    {
+        "text": "Ingestion of competitive inhibitors of 11beta-HSD2 such as liquorice and carbenoxolone result in a similar but milder clinical phenotype.",
+        "triple_list": [
+            [
+                "carbenoxolone",
+                "CPR:4",
+                "11beta-HSD2"
+            ]
+        ]
+    },
+    {
+        "text": "PPARgamma-regulated expression of these enzymes leads to an increase in the intracellular generation of all-trans retinoic acid (ATRA) from retinol.",
+        "triple_list": [
+            [
+                "retinol",
+                "false",
+                "PPARgamma"
+            ]
+        ]
+    },
+    {
+        "text": "Conversely, the transfection of MTAP into H2052 cells increased the pemetrexed IC(50) by nearly 3-fold but only in the presence of thymidine; this was reversed by ImmA.",
+        "triple_list": [
+            [
+                "pemetrexed",
+                "false",
+                "MTAP"
+            ]
+        ]
+    },
+    {
+        "text": "OBJECTIVE: To evaluate the effect of mifepristone on the expression of endometrial steroid receptors and their co-factors in depot medroxyprogesterone acetate (DMPA) users.",
+        "triple_list": [
+            [
+                "medroxyprogesterone acetate",
+                "false",
+                "steroid receptors"
+            ]
+        ]
+    },
+    {
+        "text": "Carvedilol (0.3 mg/kg, iv) produced a significant inhibition of the beta 1 adrenoceptor mediated positive chronotropic response to isoproterenol.",
+        "triple_list": [
+            [
+                "isoproterenol",
+                "CPR:3",
+                "beta 1 adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "Phospholipase Cgamma1 negatively regulates growth hormone signalling by forming a ternary complex with Jak2 and protein tyrosine phosphatase-1B.",
+        "triple_list": [
+            [
+                "tyrosine",
+                "false",
+                "growth hormone"
+            ]
+        ]
+    },
+    {
+        "text": "Here, we demonstrate that phospholipase Cgamma1 (PLCgamma1) modulates the action of growth hormone-mediated signalling by interacting with tyrosine kinase Jak2 (janus kinase 2) in a growth hormone-dependent manner.",
+        "triple_list": [
+            [
+                "tyrosine",
+                "false",
+                "growth hormone"
+            ]
+        ]
+    },
+    {
+        "text": "In conclusion, transgenic hVDR in the proximal small intestine of hVDR+/mVDR-null mice was transcriptionally active and regulated calcium absorption, but VDR actions elsewhere in the intestine are probably necessary to support adequate calcium homeostasis.",
+        "triple_list": [
+            [
+                "calcium",
+                "false",
+                "hVDR"
+            ]
+        ]
+    },
+    {
+        "text": "Effect of isolated isoflavone supplementation on ABCA1-dependent cholesterol efflux potential in postmenopausal women.",
+        "triple_list": [
+            [
+                "cholesterol",
+                "false",
+                "ABCA1"
+            ]
+        ]
+    },
+    {
+        "text": "ABCA1-facilitated cholesterol efflux and lipid parameters did not differ between equol-producing and non-equol-producing women.",
+        "triple_list": [
+            [
+                "equol",
+                "false",
+                "ABCA1"
+            ]
+        ]
+    },
+    {
+        "text": "CONCLUSION: In postmenopausal women, isolated isoflavone treatment does not affect ABCA1-dependent cholesterol efflux potential from macrophages but increases circulating pre-beta high-density lipoprotein level, which could provide beneficial vascular effects.",
+        "triple_list": [
+            [
+                "cholesterol",
+                "CPR:9",
+                "ABCA1"
+            ]
+        ]
+    },
+    {
+        "text": "The direct effect of sorafenib on the activity of these kinases and their downstream signaling was tested using phospho-specific antibodies.",
+        "triple_list": [
+            [
+                "phospho",
+                "false",
+                "kinases"
+            ]
+        ]
+    },
+    {
+        "text": "The effectiveness of IL-1 inhibition was first evaluated in a mouse model of monosodium urate crystal-induced inflammation.",
+        "triple_list": [
+            [
+                "monosodium urate",
+                "false",
+                "IL-1"
+            ]
+        ]
+    },
+    {
+        "text": "Mtrr(gt/gt) mice have increased plasma homocyst(e)ine, decreased plasma methionine, and increased tissue methyltetrahydrofolate.",
+        "triple_list": [
+            [
+                "homocyst(e)ine",
+                "false",
+                "Mtrr"
+            ]
+        ]
+    },
+    {
+        "text": "A correlation analysis of selective 5-HT1B compounds comparing the pKD for displacement of [125I]ICYP vs.",
+        "triple_list": [
+            [
+                "[125I]ICYP",
+                "false",
+                "5-HT1B"
+            ]
+        ]
+    },
+    {
+        "text": "The current studies with Sprague-Dawley rats were conducted to determine the participation of histaminergic H(1) receptor subtype in sensorimotor plasticity and memory function affected by clozapine using tests of prepulse inhibition (PPI) and radial-arm maze choice accuracy.",
+        "triple_list": [
+            [
+                "clozapine",
+                "false",
+                "histaminergic H(1) receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Thus, H(1) antagonism seems to play a role in part of the beneficial actions of antipsychotics, such as clozapine.",
+        "triple_list": [
+            [
+                "clozapine",
+                "CPR:6",
+                "H(1)"
+            ]
+        ]
+    },
+    {
+        "text": "TGF-beta1 release was higher ( approximately 1.6-fold) in 25 mM (high) compared with 5 mM (normal) D-glucose.",
+        "triple_list": [
+            [
+                "D-glucose",
+                "CPR:3",
+                "TGF-beta1"
+            ]
+        ]
+    },
+    {
+        "text": "TGF-beta1 and high D-glucose increased p42/44(mapk) and Smad2 phosphorylation, an effect blocked by PD-98059 (MEK1/2 inhibitor).",
+        "triple_list": [
+            [
+                "D-glucose",
+                "false",
+                "TGF-beta1"
+            ]
+        ]
+    },
+    {
+        "text": "The mitochondrial ACC2 is primarily expressed in heart and skeletal muscle, where it is involved in the regulation of fatty acid oxidation.",
+        "triple_list": [
+            [
+                "fatty acid",
+                "CPR:9",
+                "ACC2"
+            ]
+        ]
+    },
+    {
+        "text": "Computer simulation of native and oxidised calmodulin confirmed the loss of all four calcium ions from their specific EF-hand domains.",
+        "triple_list": [
+            [
+                "calcium",
+                "false",
+                "calmodulin"
+            ]
+        ]
+    },
+    {
+        "text": "However, upon addition of NO to CDO in the presence of substrate l-cysteine, a low-spin {FeNO}7 (S = 1/2) signal that accounts for approximately 85% of the iron within the enzyme develops.",
+        "triple_list": [
+            [
+                "l-cysteine",
+                "CPR:9",
+                "CDO"
+            ]
+        ]
+    },
+    {
+        "text": "The DFT-predicted geometric parameters for {ES-NO}7 are in good agreement with the crystallographically determined substrate-bound active site configuration of CDO and are consistent with known iron-nitrosyl model complexes.",
+        "triple_list": [
+            [
+                "iron-nitrosyl",
+                "false",
+                "CDO"
+            ]
+        ]
+    },
+    {
+        "text": "The activities of torafugu PPARalpha1 and alpha2 were also enhanced 5.6- and 6.3-fold by ETYA at 1 microM, respectively, but not by Wy-14643 at this concentration.",
+        "triple_list": [
+            [
+                "ETYA",
+                "false",
+                "PPARalpha1 and alpha2"
+            ]
+        ]
+    },
+    {
+        "text": "Our optimized L-citrulline production assay to measure DDAH activity correlated closely with the direct measure of the rate of asymmetric dimethylarginine consumption.",
+        "triple_list": [
+            [
+                "dimethylarginine",
+                "CPR:9",
+                "DDAH"
+            ]
+        ]
+    },
+    {
+        "text": "The noted conformational changes where the C-6 position is closer to the C-9 position of U46619 provided the first experimental data for understanding the molecular mechanism of the catalytic function of PGIS in the isomerization of PGH2 to prostacyclin.",
+        "triple_list": [
+            [
+                "prostacyclin",
+                "false",
+                "PGIS"
+            ]
+        ]
+    },
+    {
+        "text": "Indirect systemic and direct oral factor Xa and direct oral factor IIa inhibitors with improved pharmacologic profiles compared with heparins and vitamin K antagonists are currently in clinical development.",
+        "triple_list": [
+            [
+                "vitamin K",
+                "false",
+                "factor IIa"
+            ]
+        ]
+    },
+    {
+        "text": "The IC(50) for block of resting channels at -150 mV was 2.3, 3.9 and 11.3 microM in Na(V)1.4, respectively, and 29.2 microM for 4-chloropropofol in Na(V)1.2.",
+        "triple_list": [
+            [
+                "4-chloropropofol",
+                "false",
+                "Na(V)1.4"
+            ]
+        ]
+    },
+    {
+        "text": "It undergoes extensive biotransformation, which is affected by poor metabolism by cytochrome P450 (CYP) 2D6 in a small percentage of the population; these patients have greater exposure to and slower elimination of atomoxetine than extensive metabolizers.",
+        "triple_list": [
+            [
+                "atomoxetine",
+                "CPR:9",
+                "cytochrome P450 (CYP) 2D6"
+            ]
+        ]
+    },
+    {
+        "text": "Two pharmacologically distinct alpha 1-adrenoceptor subtypes in the contraction of rabbit aorta: each subtype couples with a different Ca2+ signalling mechanism and plays a different physiological role.",
+        "triple_list": [
+            [
+                "Ca2+",
+                "false",
+                "alpha 1-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "The alpha 1-adrenoceptor alkylating agent CEC selectively inhibited the phasic component of the norepinephrine-induced contractile response, with little effect on the tonic component.",
+        "triple_list": [
+            [
+                "norepinephrine",
+                "false",
+                "alpha 1-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "The alpha 1-adrenoceptor occupancy-response relationship defined by the phenoxybenzamine inactivation method was rectangular hyperbolic for the tonic response, whereas that for the phasic response was linear, indicating the different degree of receptor reserve for the two responses.",
+        "triple_list": [
+            [
+                "phenoxybenzamine",
+                "false",
+                "alpha 1-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "Moreover, alpha 1-adrenoceptor-mediated phosphatidylinositol (PI) hydrolysis was CEC sensitive, and fractional inactivation of alpha 1 receptors with CEC showed equivalent increments in the reduction of PI hydrolysis and phasic contractile response, suggesting that both responses are linearly related to the CEC-sensitive receptor sites.",
+        "triple_list": [
+            [
+                "phosphatidylinositol",
+                "false",
+                "alpha 1-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "The Schild plots for the competitive antagonists WB4101 and 5-methyl-urapidil against alpha 1a-adrenoceptor-selective agonist methoxamine-induced contraction were linear and had slopes not significantly different from unity, with a pA2 of 9.07 +/- 0.07 (n = 5) for WB4101 and 9.09 +/- 0.05 (n = 3) for 5-methyl-urapidil.",
+        "triple_list": [
+            [
+                "methoxamine",
+                "CPR:5",
+                "alpha 1a-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "Activation of PPARgamma with traditional agonists mimics the RhoA-inhibiting properties of ibuprofen in PC12 cells and, like ibuprofen, promotes neurite elongation in primary cultured neurons exposed to axonal growth inhibitors.",
+        "triple_list": [
+            [
+                "ibuprofen",
+                "false",
+                "PPARgamma"
+            ]
+        ]
+    },
+    {
+        "text": "The 5-HT1(B/D) agonist zolmitriptan's ability to reduce aggressive behavior in humans and its interaction with the well-known aggression-enhancing drug alcohol were examined.",
+        "triple_list": [
+            [
+                "alcohol",
+                "false",
+                "5-HT1(B/D)"
+            ]
+        ]
+    },
+    {
+        "text": "denopamine for beta(1); clenbuterol, AZ 40140d, salbutamol for beta(2)) were found to have subtype-selective intrinsic efficacy.",
+        "triple_list": [
+            [
+                "salbutamol",
+                "false",
+                "beta(1)"
+            ]
+        ]
+    },
+    {
+        "text": "Secretion induced by TRH, hyposmolarity, or high K+ was optimal at pH 7.3-7.65 and was significantly depressed at pH 6.0 or 8.0, indicating that release of hormone induced by all 3 stimuli is due to an active cell process requiring a physiologic extracellular pH and is not produced by nonspecific cell toxicity.",
+        "triple_list": [
+            [
+                "K+",
+                "false",
+                "TRH"
+            ]
+        ]
+    },
+    {
+        "text": "Inhibition of the NF-kappaB pathway was responsible for this effect since the colchicoside inhibited RANKL-induced NF-kappaB activation, activation of IkappaB kinase (IKK) and suppressed inhibitor of NF-kappaBalpha (IkappaBalpha) phosphorylation and degradation, an inhibitor of NF-kappaB.",
+        "triple_list": [
+            [
+                "colchicoside",
+                "false",
+                "NF-kappaB"
+            ]
+        ]
+    },
+    {
+        "text": "NF-κB activation induces numerous proinflammatory gene products including cytokines, cyclooxygenase-2 (COX-2), and inducible nitric oxide synthase (iNOS).",
+        "triple_list": [
+            [
+                "nitric oxide",
+                "false",
+                "NF-κB"
+            ]
+        ]
+    },
+    {
+        "text": "Both outward currents were significantly reduced by the mGluR antagonist MCPG and the CHPG-induced current was blocked by the specific mGluR(5) antagonist MTEP.",
+        "triple_list": [
+            [
+                "MCPG",
+                "CPR:6",
+                "mGluR"
+            ]
+        ]
+    },
+    {
+        "text": "In a comparison of GLT and grapefruit juice, GLT showed weaker inhibition of CYP activities and of midazolam 1'-hydroxylation than grapefruit juice.",
+        "triple_list": [
+            [
+                "midazolam",
+                "false",
+                "CYP"
+            ]
+        ]
+    },
+    {
+        "text": "EXPERIMENTAL APPROACH: Effects of mianserin were examined in CHO cells transfected with human opioid receptors, C6 glioma cells and rat brain membranes by the use of radioligand binding and functional assays including the stimulation of [(35)S]GTPgammaS binding and MAPK phosphorylation.",
+        "triple_list": [
+            [
+                "[(35)S]GTPgammaS",
+                "false",
+                "human opioid receptors"
+            ]
+        ]
+    },
+    {
+        "text": "Urinary Smad1, fasting plasma glucose (FPG), fasting serum C-Peptide (C-P), hemoglobin A1C (HbA1c), cystatin C, and other chemistry laboratory parameters of T2DM participants and controls were measured.",
+        "triple_list": [
+            [
+                "glucose",
+                "false",
+                "Smad1"
+            ]
+        ]
+    },
+    {
+        "text": "Oxysterol generation and liver X receptor-dependent reverse cholesterol transport: not all roads lead to Rome.",
+        "triple_list": [
+            [
+                "cholesterol",
+                "false",
+                "liver X receptor"
+            ]
+        ]
+    },
+    {
+        "text": "However, SSAT1-deficient mice metabolize TETA at the same rate as the wild-type mice, indicating the existence of another N-acetylase respons 2ible for its metabolism in mice.",
+        "triple_list": [
+            [
+                "TETA",
+                "false",
+                "SSAT1"
+            ]
+        ]
+    },
+    {
+        "text": "Tumor necrosis factor-alpha potentiates the cytotoxicity of amiodarone in Hepa1c1c7 cells: roles of caspase activation and oxidative stress.",
+        "triple_list": [
+            [
+                "amiodarone",
+                "false",
+                "Tumor necrosis factor-alpha"
+            ]
+        ]
+    },
+    {
+        "text": "Activation of caspases 9 and 3/7 was observed in AMD/TNF-cotreated cells, and caspase inhibitors provided minor protection from cytotoxicity.",
+        "triple_list": [
+            [
+                "AMD",
+                "false",
+                "caspases 9 and 3/7"
+            ]
+        ]
+    },
+    {
+        "text": "Human serum butyrylcholinesterase (HuBChE) is currently the most suitable bioscavenger for the prophylaxis of highly toxic organophosphate (OP) nerve agents.",
+        "triple_list": [
+            [
+                "organophosphate",
+                "CPR:9",
+                "Human serum butyrylcholinesterase"
+            ]
+        ]
+    },
+    {
+        "text": "Conversely, Sult1a1, 2a1/2, and 3a1 mRNAs increased 100 to 500% at various time points in pregnant and lactating mice and corresponded with enhanced in vitro sulfation of acetaminophen in liver S9 fractions.",
+        "triple_list": [
+            [
+                "acetaminophen",
+                "false",
+                "Sult1a1, 2a1/2, and 3a1"
+            ]
+        ]
+    },
+    {
+        "text": "The expression of the osteoblast markers runt-related transcription factor 2 (RUNX2) and periostin was decreased, while osteocalcin (OCN) was augmented in CCL3(-/-) and Met-RANTES-treated mice.",
+        "triple_list": [
+            [
+                "Met",
+                "CPR:4",
+                "runt-related transcription factor 2"
+            ]
+        ]
+    },
+    {
+        "text": "Consistent with an adult-onset isolated GHD model, mutant animals are hypoglycemic and display increased insulin sensitivity and glucose clearance.",
+        "triple_list": [
+            [
+                "glucose",
+                "false",
+                "insulin"
+            ]
+        ]
+    },
+    {
+        "text": "A lot of controversies still exist regarding their binding affinity, effects of 5-HT6 ligands on brain catecholamines, behavioral syndromes regulated by them, and brain distribution.",
+        "triple_list": [
+            [
+                "catecholamines",
+                "false",
+                "5-HT6"
+            ]
+        ]
+    },
+    {
+        "text": "These results reveal, for the first time, the differential distribution of P-CREB in fast- and slow-twitch muscles, which might support the crucial role of cAMP-dependent signaling in controlling the synapse-specific expression of ColQ-1a in fast-twitch muscles.",
+        "triple_list": [
+            [
+                "cAMP",
+                "false",
+                "P-CREB"
+            ]
+        ]
+    },
+    {
+        "text": "Liver X Receptors and female reproduction: when cholesterol meets fertility! The role of cholesterol in female reproductive physiology has been suspected for a long time, while the molecular bases were unknown.",
+        "triple_list": [
+            [
+                "cholesterol",
+                "false",
+                "Liver X Receptors"
+            ]
+        ]
+    },
+    {
+        "text": "Here we investigated whether AhR plays a role in 17-AAG-mediated anticancer activity by functioning as a downstream target or by modulating its anticancer efficacy.",
+        "triple_list": [
+            [
+                "17-AAG",
+                "false",
+                "AhR"
+            ]
+        ]
+    },
+    {
+        "text": "RhoA inhibitor blocked the protective effect of genistein on endothelial permeability and also ablated thrombin-induced MLC-phosphorylation in ECs.",
+        "triple_list": [
+            [
+                "genistein",
+                "false",
+                "RhoA"
+            ]
+        ]
+    },
+    {
+        "text": "The present study examined the effect of insulin-mediated activation of the mammalian target of rapamycin complex 1 (MTORC1) signaling network on the proliferation of primary culture of theca-interstitial (T-I) cells.",
+        "triple_list": [
+            [
+                "rapamycin",
+                "false",
+                "insulin"
+            ]
+        ]
+    },
+    {
+        "text": "Knockdown of p21 using specific siRNAs partially abrogated jaceosidin-induced cell growth inhibition.",
+        "triple_list": [
+            [
+                "jaceosidin",
+                "false",
+                "p21"
+            ]
+        ]
+    },
+    {
+        "text": "Overexpression of VMH ephrinA5 transiently increased local glutamate concentrations, whereas ephrinA5 knockdown produced profound suppression of VMH interstitial fluid glutamine concentrations in the basal state and during hypoglycemia.",
+        "triple_list": [
+            [
+                "glutamate",
+                "false",
+                "ephrinA5"
+            ]
+        ]
+    },
+    {
+        "text": "Electrical Stimuli Release ATP to Increase GLUT4 Translocation and Glucose Uptake via PI3Kγ-Akt-AS160 in Skeletal Muscle Cells.",
+        "triple_list": [
+            [
+                "Glucose",
+                "CPR:9",
+                "GLUT4"
+            ]
+        ]
+    },
+    {
+        "text": "Trichostatin A inhibits transforming growth factor-β-induced reactive oxygen species accumulation and myofibroblast differentiation via enhanced NF-E2-related factor 2-antioxidant response element signaling.",
+        "triple_list": [
+            [
+                "oxygen",
+                "false",
+                "transforming growth factor-β"
+            ]
+        ]
+    },
+    {
+        "text": "We used this technique to investigate the effects of Mg(2+) ions on the ALDH1A1-NADH binding characteristics and enzyme catalysis.",
+        "triple_list": [
+            [
+                "NADH",
+                "false",
+                "ALDH1A1"
+            ]
+        ]
+    },
+    {
+        "text": "The neuroinflammatory response to MPTP was markedly attenuated, and indices of oxidative stress and JNK activation were significantly prevented with EHT.",
+        "triple_list": [
+            [
+                "EHT",
+                "CPR:4",
+                "JNK"
+            ]
+        ]
+    },
+    {
+        "text": "Phosphodiesterase type 5 (PDE5) mediates the degradation of cGMP in a variety of tissues including brain.",
+        "triple_list": [
+            [
+                "cGMP",
+                "CPR:9",
+                "Phosphodiesterase type 5"
+            ]
+        ]
+    },
+    {
+        "text": "We have previously reported a nanomolar inhibitor of antiapoptotic Mcl-1 protein, 3-thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile (S1).",
+        "triple_list": [
+            [
+                "3-thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile",
+                "CPR:4",
+                "Mcl-1"
+            ]
+        ]
+    },
+    {
+        "text": "Its pathogenesis is complex, and involves a state of 'lipotoxicity' in which insulin resistance, with increased free fatty acid release from adipose tissue to the liver, play a key role in the onset of a 'lipotoxic liver disease' and its progression to NASH.",
+        "triple_list": [
+            [
+                "free fatty acid",
+                "false",
+                "insulin"
+            ]
+        ]
+    },
+    {
+        "text": "Furthermore, co-injection of encapsulated Nod-ligands with PLA particles carrying Gag p24 HIV-1 antigen allowed a 100 fold increase in antibody responses in comparison to Alum.",
+        "triple_list": [
+            [
+                "PLA",
+                "false",
+                "Nod"
+            ]
+        ]
+    },
+    {
+        "text": "A series of MMP-1 inhibitors have been identified based upon a methyl rosmarinate scaffold using structure-based drug design methods.",
+        "triple_list": [
+            [
+                "methyl rosmarinate",
+                "CPR:4",
+                "MMP-1"
+            ]
+        ]
+    },
+    {
+        "text": "Oligomeric Pro-Hyp-Gly- (POG-) peptides, wherein the collagenous triple helix is supported by C-terminal capping, exhibit silica precipitation properties (O, Hyp = (2S,4R)hydroxyproline).",
+        "triple_list": [
+            [
+                "C",
+                "false",
+                "collagenous triple helix"
+            ]
+        ]
+    },
+    {
+        "text": "RATIONALE: The selective CRF(1) (corticotropin releasing factor type 1) receptor antagonist SSR125543 has been previously shown to attenuate the long-term cognitive deficit produced by traumatic stress exposure.",
+        "triple_list": [
+            [
+                "SSR125543",
+                "CPR:6",
+                "CRF(1) (corticotropin releasing factor type 1) receptor"
+            ]
+        ]
+    },
+    {
+        "text": "An X-ray crystal structure of optimized compound 9b bound in the active site of FVIIa showed that the bicyclic scaffold provides 5 hydrogen bonding interactions in addition to projecting groups for interactions within the S1, S2 and S3 pockets.",
+        "triple_list": [
+            [
+                "hydrogen",
+                "false",
+                "FVIIa"
+            ]
+        ]
+    },
+    {
+        "text": "Circulating levels of insulin and glucagon reflect the nutritional state of animals and elicit regulatory responses in the liver that maintain glucose and lipid homeostasis.",
+        "triple_list": [
+            [
+                "glucose",
+                "false",
+                "insulin"
+            ]
+        ]
+    },
+    {
+        "text": "Since pathologies are often related to inflammation, an inflammatory HUVEC culture condition with IL-1β stimulation has been introduced and suggested to be widely applied for studying nanocarriers, since cellular uptake in this assay was clearly increased for NVP contents ⩾20mol.%.",
+        "triple_list": [
+            [
+                "NVP",
+                "false",
+                "IL-1β"
+            ]
+        ]
+    },
+    {
+        "text": "Full agonists to the peroxisome proliferator-activated receptor (PPAR)γ, such as Rosiglitazone, have been associated with a series of undesired side effects, such as weight gain, fluid retention, cardiac hypertrophy, and hepatotoxicity.",
+        "triple_list": [
+            [
+                "Rosiglitazone",
+                "CPR:5",
+                "peroxisome proliferator-activated receptor (PPAR)γ"
+            ]
+        ]
+    },
+    {
+        "text": "Nevertheless, PPARγ is involved in the expression of genes that control glucose and lipid metabolism and is an important target for drugs against type 2 diabetes, dyslipidemia, atherosclerosis, and cardiovascular disease.",
+        "triple_list": [
+            [
+                "glucose",
+                "false",
+                "PPARγ"
+            ]
+        ]
+    },
+    {
+        "text": "Studies on the kinetics of the hSULT2A1-catalyzed sulfation of dehydroepiandrosterone (DHEA) showed the effects of disulfide bond formation on the substrate inhibition characteristics of the enzyme.",
+        "triple_list": [
+            [
+                "dehydroepiandrosterone",
+                "CPR:9",
+                "hSULT2A1"
+            ]
+        ]
+    },
+    {
+        "text": "In non-pre-treated cells, only efflux transporters were down-regulated by 7-ketosterols, showing a greater influence upon ABCG5 expression.",
+        "triple_list": [
+            [
+                "7-ketosterols",
+                "CPR:4",
+                "efflux transporters"
+            ]
+        ]
+    },
+    {
+        "text": "In lymphocytes, the NTPDase and ADA activities were increased in all groups treated with caffeic acid when compared to control (P<0.05).",
+        "triple_list": [
+            [
+                "caffeic acid",
+                "CPR:3",
+                "NTPDase"
+            ]
+        ]
+    },
+    {
+        "text": "Currently, the most important insecticides are neonicotinoids, which are metabolized in vitro by AOX on reduction of the nitroimino group and by CYPs via oxidation reactions.",
+        "triple_list": [
+            [
+                "nitroimino",
+                "CPR:9",
+                "AOX"
+            ]
+        ]
+    },
+    {
+        "text": "This is the first study to establish the in vivo relevance of AOX in neonicotinoid metabolism in mammals and one of the first for xenobiotics in general.",
+        "triple_list": [
+            [
+                "neonicotinoid",
+                "CPR:9",
+                "AOX"
+            ]
+        ]
+    },
+    {
+        "text": "There was a positive correlation between prolactin levels and fasting plasma glucose in hyperprolactinemic women.",
+        "triple_list": [
+            [
+                "glucose",
+                "false",
+                "prolactin"
+            ]
+        ]
+    },
+    {
+        "text": "T-Cells from HLA-B*57:01+ Human Subjects Are Activated with Abacavir through Two Independent Pathways and Induce Cell Death by Multiple Mechanisms.",
+        "triple_list": [
+            [
+                "Abacavir",
+                "false",
+                "HLA-B*57:01"
+            ]
+        ]
+    },
+    {
+        "text": "Furthermore, CaMKII inhibition in astrocytes is associated with the rapid onset of intracellular calcium oscillations.",
+        "triple_list": [
+            [
+                "calcium",
+                "false",
+                "CaMKII"
+            ]
+        ]
+    },
+    {
+        "text": "To evaluate the cytokine balance and enzymatic alterations induced by environmental pesticide exposure during pregnancy, this transversal study explored placentas derived from non-exposed women (control group-CG), and from women living in a rural area (rural group-RG), collected during intensive organophosphate (OP) pesticide spraying season (RG-SS) and during non-spraying season (RG-NSS).",
+        "triple_list": [
+            [
+                "organophosphate",
+                "false",
+                "cytokine"
+            ]
+        ]
+    },
+    {
+        "text": "CO donor dose-dependently inactivated CYP2E1 of ethanol-incubated microsome, which was mimicked by HO-1 substrate but abolished by CO scavenger.",
+        "triple_list": [
+            [
+                "ethanol",
+                "CPR:3",
+                "CYP2E1"
+            ]
+        ]
+    },
+    {
+        "text": "During repetitive stimulation of skeletal muscle, extracellular ATP levels raise, activating purinergic receptors, increasing Ca(2+) influx, and enhancing contractile force, a response called potentiation.",
+        "triple_list": [
+            [
+                "Ca(2+)",
+                "false",
+                "purinergic receptors"
+            ]
+        ]
+    },
+    {
+        "text": "The rate limiting enzyme of beta-oxidation (ACOX1) was significantly over-expressed in the liver with tBHQ treatment.",
+        "triple_list": [
+            [
+                "tBHQ",
+                "CPR:3",
+                "ACOX1"
+            ]
+        ]
+    },
+    {
+        "text": "Fer is a cytoplasmic tyrosine kinase that is activated in response to platelet-derived growth factor (PDGF) stimulation.",
+        "triple_list": [
+            [
+                "tyrosine",
+                "false",
+                "Fer"
+            ]
+        ]
+    },
+    {
+        "text": "Synergistic enhancement of cancer therapy using a combination of heat shock protein targeted HPMA copolymer-drug conjugates and gold nanorod induced hyperthermia.",
+        "triple_list": [
+            [
+                "HPMA",
+                "false",
+                "heat shock protein"
+            ]
+        ]
+    },
+    {
+        "text": "In this study we examined whether the presynaptic effects of D3 receptor stimulation in the substantia nigra reticulata (SNr) are modulated by Ca(2+) activation of CaMKIIα.",
+        "triple_list": [
+            [
+                "Ca(2+)",
+                "false",
+                "D3 receptor"
+            ]
+        ]
+    },
+    {
+        "text": "The N-glycosyltransferase is predicted to transfer either glucose or a pseudosugar (cyclitol) to the aglycone.",
+        "triple_list": [
+            [
+                "cyclitol",
+                "false",
+                "N-glycosyltransferase"
+            ]
+        ]
+    },
+    {
+        "text": "PICK1 Deficiency Impairs Secretory Vesicle Biogenesis and Leads to Growth Retardation and Decreased Glucose Tolerance.",
+        "triple_list": [
+            [
+                "Glucose",
+                "false",
+                "PICK1"
+            ]
+        ]
+    },
+    {
+        "text": "Design, Synthesis and Biological Evaluation of Aminoalkylindole Derivatives as Cannabinoid Receptor Ligands with Potential for Treatment of Alcohol Abuse.",
+        "triple_list": [
+            [
+                "Alcohol",
+                "false",
+                "Cannabinoid Receptor"
+            ]
+        ]
+    },
+    {
+        "text": "At a mechanistic level both extracts down-regulated PKC θ activation, which is associated with palmitate-induced insulin resistance.",
+        "triple_list": [
+            [
+                "palmitate",
+                "false",
+                "PKC θ"
+            ]
+        ]
+    },
+    {
+        "text": "BMP-7 was administered to silica-treated rats intraperitoneally at a dose of 300μg/kg/injection from day 8 to day 30 every other day.",
+        "triple_list": [
+            [
+                "silica",
+                "false",
+                "BMP-7"
+            ]
+        ]
+    },
+    {
+        "text": "The hydroxyproline contents in BMP-7 treated groups were significantly lower than the silica groups (P<0.05).",
+        "triple_list": [
+            [
+                "silica",
+                "false",
+                "BMP-7"
+            ]
+        ]
+    },
+    {
+        "text": "Distinct role of PYK2 in mediating thromboxane generation downstream of both G12/13 and integrin αiibβ in platelets.",
+        "triple_list": [
+            [
+                "thromboxane",
+                "false",
+                "PYK2"
+            ]
+        ]
+    },
+    {
+        "text": "The synthesis, preclinical profile, and in vivo efficacy in rat xenograft models of the novel and selective anaplastic lymphoma kinase inhibitor 15b (LDK378) are described.",
+        "triple_list": [
+            [
+                "LDK378",
+                "CPR:4",
+                "anaplastic lymphoma kinase"
+            ]
+        ]
+    },
+    {
+        "text": "In this initial report, preliminary structure-activity relationships (SARs) are described as well as the rational design strategy employed to overcome the development deficiencies of the first generation ALK inhibitor 4 (TAE684).",
+        "triple_list": [
+            [
+                "TAE684",
+                "CPR:4",
+                "ALK"
+            ]
+        ]
+    },
+    {
+        "text": "Beta 2-Adrenoceptor density, however, declined slowly being still significantly increased after 3 days, although propranolol was not detectable in plasma after 24 h.",
+        "triple_list": [
+            [
+                "propranolol",
+                "false",
+                "Beta 2-Adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "The existence of multiple affinity states for the opiate receptor in neuroblastoma x glioma NG108-15 hybrid cells has been demonstrated by competition binding studies with tritiated diprenorphine and [D-Ala2, D-Leu5]enkephalin (DADLE).",
+        "triple_list": [
+            [
+                "DADLE",
+                "false",
+                "enkephalin"
+            ]
+        ]
+    },
+    {
+        "text": "Chromatographic analysis of the metabolism of 14C-labeled arachidonic acid in this system revealed that PB-dependent inactivation of PHS is markedly increased in the presence of 100 microM H2O2.",
+        "triple_list": [
+            [
+                "H2O2",
+                "CPR:4",
+                "PHS"
+            ]
+        ]
+    },
+    {
+        "text": "The holo activity of AGT 2 with a high Km for L-alanine decreased more slowly than AGT 1 (by 33% in 14 days, by 60% in 28 days).",
+        "triple_list": [
+            [
+                "L-alanine",
+                "CPR:9",
+                "AGT 2"
+            ]
+        ]
+    },
+    {
+        "text": "The affinity of the same antagonists for the alpha 1A- and alpha 1B- adrenoceptors was evaluated by utilizing membranes from rat hippocampus pretreated with CEC, and rat liver, respectively.",
+        "triple_list": [
+            [
+                "CEC",
+                "false",
+                "alpha 1A- and alpha 1B- adrenoceptors"
+            ]
+        ]
+    },
+    {
+        "text": "Alpha 1-adrenoceptor subtypes mediating the regulation and modulation of Ca2+ sensitization in rabbit thoracic aorta.",
+        "triple_list": [
+            [
+                "Ca2+",
+                "false",
+                "Alpha 1-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "In beta-escin-skinned strips of chloroethylclonidine-pretreated smooth muscle, the enhancement of Ca2+ contraction produced by norepinephrine was significantly decreased, whereas the amplitude was the same as that produced by methoxamine or clonidine; this enhancement was inhibited by the selective alpha 1A-adrenoceptor antagonist WB 4101 (100 nM).",
+        "triple_list": [
+            [
+                "WB 4101",
+                "CPR:6",
+                "alpha 1A-adrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "These results suggest that both alpha 1-adrenoceptor subtypes (alpha 1A and alpha 1B) increase the Ca2+ sensitivity of contractile elements, and that the Ca2+ sensitization produced by alpha 1A-subtype receptors is mediated through G-protein and protein kinase C, and plays an important role in contraction of smooth muscle of rabbit thoracic aorta.",
+        "triple_list": [
+            [
+                "Ca2+",
+                "false",
+                "alpha 1-adrenoceptor subtypes (alpha 1A and alpha 1B"
+            ]
+        ]
+    },
+    {
+        "text": "The goal of the present study was to compare the effects of three potent reference renin inhibitors (remikiren, CGP 38560A, and enalkiren) in sodium-depleted normotensive squirrel monkeys.",
+        "triple_list": [
+            [
+                "remikiren",
+                "CPR:4",
+                "renin"
+            ]
+        ]
+    },
+    {
+        "text": "Female precocious puberty may require hyperactivity of both gonadotrophin axes because of the \"two-cell' arrangement required for ovarian oestrogen production.",
+        "triple_list": [
+            [
+                "oestrogen",
+                "false",
+                "gonadotrophin"
+            ]
+        ]
+    },
+    {
+        "text": "The sodium channel-blocking action of cocaine per se does not appear to be involved in the rapid pressor response to cocaine.",
+        "triple_list": [
+            [
+                "cocaine",
+                "false",
+                "sodium channel"
+            ]
+        ]
+    },
+    {
+        "text": "Metabolites of the analogue 1-deamino-1-carba-2-tyrosine(O-methyl)-oxytocin (carbetocin) following incubation with a rat kidney homogenate were isolated and their pharmacodynamic properties investigated.",
+        "triple_list": [
+            [
+                "carbetocin",
+                "false",
+                "oxytocin"
+            ]
+        ]
+    }
+]
