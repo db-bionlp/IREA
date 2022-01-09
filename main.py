@@ -1,5 +1,3 @@
-# import os
-# os.environ["CUDA_VISIBLE_DEVICES"] = ','.join(map(str, [0, ]))
 import argparse
 import logging
 logger = logging.getLogger(__name__)
