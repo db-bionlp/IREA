@@ -2,7 +2,7 @@
 
 ## Overview
 
- ![image](img/IREA_model_)
+ ![image](img/IREA_model_.png)
 
 ## Requirements
 
