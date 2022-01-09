@@ -1,0 +1,3467 @@
+[
+    {
+        "text": "After 21 weeks of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine treatment, all 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated monkeys were significantly affected.",
+        "triple_list": [
+            [
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+                "false",
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"
+            ],
+            [
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+                "false",
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"
+            ],
+            [
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+                "false",
+                "3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine"
+            ],
+            [
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+                "false",
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"
+            ],
+            [
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+                "false",
+                "3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine"
+            ],
+            [
+                "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+                "effect",
+                "3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine"
+            ]
+        ]
+    },
+    {
+        "text": "Effect of ketoconazole-mediated CYP3A4 inhibition on clinical pharmacokinetics of panobinostat (LBH589), an orally active histone deacetylase inhibitor.",
+        "triple_list": [
+            [
+                "ketoconazole",
+                "false",
+                "panobinostat"
+            ],
+            [
+                "ketoconazole",
+                "false",
+                "LBH589"
+            ],
+            [
+                "ketoconazole",
+                "false",
+                "histone deacetylase inhibitor"
+            ],
+            [
+                "panobinostat",
+                "false",
+                "LBH589"
+            ],
+            [
+                "panobinostat",
+                "false",
+                "histone deacetylase inhibitor"
+            ],
+            [
+                "LBH589",
+                "false",
+                "histone deacetylase inhibitor"
+            ]
+        ]
+    },
+    {
+        "text": "Ticlopidine treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (AUC(0-   )) of oral ketamine by 2.4-fold, whereas itraconazole treatment did not increase the exposure to S-ketamine.",
+        "triple_list": [
+            [
+                "Ticlopidine",
+                "mechanism",
+                "ketamine"
+            ],
+            [
+                "Ticlopidine",
+                "false",
+                "itraconazole"
+            ],
+            [
+                "Ticlopidine",
+                "false",
+                "S-ketamine"
+            ],
+            [
+                "ketamine",
+                "false",
+                "itraconazole"
+            ],
+            [
+                "ketamine",
+                "false",
+                "S-ketamine"
+            ],
+            [
+                "itraconazole",
+                "false",
+                "S-ketamine"
+            ]
+        ]
+    },
+    {
+        "text": "The ratio of norketamine AUC(0-   ) to ketamine AUC(0-   ) was significantly decreased in the ticlopidine (P &lt; 0.001) and itraconazole phases (P = 0.006) as compared to placebo.",
+        "triple_list": [
+            [
+                "norketamine",
+                "false",
+                "ketamine"
+            ],
+            [
+                "norketamine",
+                "false",
+                "ticlopidine"
+            ],
+            [
+                "norketamine",
+                "false",
+                "itraconazole"
+            ],
+            [
+                "ketamine",
+                "false",
+                "ticlopidine"
+            ],
+            [
+                "ketamine",
+                "false",
+                "itraconazole"
+            ],
+            [
+                "ticlopidine",
+                "false",
+                "itraconazole"
+            ]
+        ]
+    },
+    {
+        "text": "We also found that Bcl-2 was overexpressed in DZNep insensitive cells, and cotreatment with DZNep and ABT-737, a Bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of DZNep insensitive MM cells.",
+        "triple_list": [
+            [
+                "DZNep",
+                "false",
+                "DZNep"
+            ],
+            [
+                "DZNep",
+                "false",
+                "ABT-737"
+            ],
+            [
+                "DZNep",
+                "false",
+                "DZNep"
+            ],
+            [
+                "DZNep",
+                "effect",
+                "ABT-737"
+            ],
+            [
+                "DZNep",
+                "false",
+                "DZNep"
+            ],
+            [
+                "ABT-737",
+                "false",
+                "DZNep"
+            ]
+        ]
+    },
+    {
+        "text": "With respect to toxicity, the order of CYP inhibitor effectiveness was ABT>diethyldithiocarbamate~tranylcypromine>ketoconazole.",
+        "triple_list": [
+            [
+                "ABT",
+                "false",
+                "diethyldithiocarbamate"
+            ],
+            [
+                "ABT",
+                "false",
+                "tranylcypromine"
+            ],
+            [
+                "ABT",
+                "false",
+                "ketoconazole"
+            ],
+            [
+                "diethyldithiocarbamate",
+                "false",
+                "tranylcypromine"
+            ],
+            [
+                "diethyldithiocarbamate",
+                "false",
+                "ketoconazole"
+            ],
+            [
+                "tranylcypromine",
+                "false",
+                "ketoconazole"
+            ]
+        ]
+    },
+    {
+        "text": "Furafylline and sulfaphenazole had no effect, while quinidine appeared to augment precocene I toxicity.",
+        "triple_list": [
+            [
+                "Furafylline",
+                "false",
+                "sulfaphenazole"
+            ],
+            [
+                "Furafylline",
+                "false",
+                "quinidine"
+            ],
+            [
+                "Furafylline",
+                "false",
+                "precocene I"
+            ],
+            [
+                "sulfaphenazole",
+                "false",
+                "quinidine"
+            ],
+            [
+                "sulfaphenazole",
+                "false",
+                "precocene I"
+            ],
+            [
+                "quinidine",
+                "effect",
+                "precocene I"
+            ]
+        ]
+    },
+    {
+        "text": "It is better to avoid prescribing isoenzyme CYP 2D6 inhibitors to women treated with tamoxifen for breast cancer, especially SSRI antidepressants such as paroxetine and fluoxetine.",
+        "triple_list": [
+            [
+                "tamoxifen",
+                "advise",
+                "SSRI antidepressants"
+            ],
+            [
+                "tamoxifen",
+                "advise",
+                "paroxetine"
+            ],
+            [
+                "tamoxifen",
+                "advise",
+                "fluoxetine"
+            ],
+            [
+                "SSRI antidepressants",
+                "false",
+                "paroxetine"
+            ],
+            [
+                "SSRI antidepressants",
+                "false",
+                "fluoxetine"
+            ],
+            [
+                "paroxetine",
+                "false",
+                "fluoxetine"
+            ]
+        ]
+    },
+    {
+        "text": "In female rats, neonatal quinpirole treatment enhanced amphetamine locomotor sensitization compared with quinpirole-free controls sensitized to amphetamine.",
+        "triple_list": [
+            [
+                "quinpirole",
+                "effect",
+                "amphetamine"
+            ],
+            [
+                "quinpirole",
+                "false",
+                "quinpirole"
+            ],
+            [
+                "quinpirole",
+                "false",
+                "amphetamine"
+            ],
+            [
+                "amphetamine",
+                "false",
+                "quinpirole"
+            ],
+            [
+                "amphetamine",
+                "false",
+                "amphetamine"
+            ],
+            [
+                "quinpirole",
+                "false",
+                "amphetamine"
+            ]
+        ]
+    },
+    {
+        "text": "Results revealed that the strains were resistant to many drugs at high levels, only piperacillin, carbenicillin, amikacin and ciprofloxacin showed resistances at comparatively lower levels.",
+        "triple_list": [
+            [
+                "piperacillin",
+                "false",
+                "carbenicillin"
+            ],
+            [
+                "piperacillin",
+                "false",
+                "amikacin"
+            ],
+            [
+                "piperacillin",
+                "false",
+                "ciprofloxacin"
+            ],
+            [
+                "carbenicillin",
+                "false",
+                "amikacin"
+            ],
+            [
+                "carbenicillin",
+                "false",
+                "ciprofloxacin"
+            ],
+            [
+                "amikacin",
+                "false",
+                "ciprofloxacin"
+            ]
+        ]
+    },
+    {
+        "text": "and/or antibiotic drug doxycycline (100 mg/kg, p. o.), as well as that of neurotoxin 1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine (MPTP) (4 x 20 mg/kg, i. p.)",
+        "triple_list": [
+            [
+                "antibiotic drug",
+                "false",
+                "doxycycline"
+            ],
+            [
+                "antibiotic drug",
+                "false",
+                "1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine"
+            ],
+            [
+                "antibiotic drug",
+                "false",
+                "MPTP"
+            ],
+            [
+                "doxycycline",
+                "false",
+                "1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine"
+            ],
+            [
+                "doxycycline",
+                "false",
+                "MPTP"
+            ],
+            [
+                "1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine",
+                "false",
+                "MPTP"
+            ]
+        ]
+    },
+    {
+        "text": "Phase I trial of lenalidomide and CCI-779 in patients with relapsed multiple myeloma: evidence for lenalidomide-CCI-779 interaction via P-glycoprotein.",
+        "triple_list": [
+            [
+                "lenalidomide",
+                "false",
+                "CCI-779"
+            ],
+            [
+                "lenalidomide",
+                "false",
+                "lenalidomide"
+            ],
+            [
+                "lenalidomide",
+                "false",
+                "CCI-779"
+            ],
+            [
+                "CCI-779",
+                "false",
+                "lenalidomide"
+            ],
+            [
+                "CCI-779",
+                "false",
+                "CCI-779"
+            ],
+            [
+                "lenalidomide",
+                "false",
+                "CCI-779"
+            ]
+        ]
+    },
+    {
+        "text": "The objective of this study was to evaluate the effect of oral administration of ginseng stem-and-leaf saponins (GSLS) on the humoral immune responses of chickens to inactivated ND and AI vaccines.",
+        "triple_list": [
+            [
+                "ginseng stem-and-leaf saponins",
+                "false",
+                "GSLS"
+            ],
+            [
+                "ginseng stem-and-leaf saponins",
+                "false",
+                "inactivated ND vaccines"
+            ],
+            [
+                "ginseng stem-and-leaf saponins",
+                "false",
+                "inactivated AI vaccines"
+            ],
+            [
+                "GSLS",
+                "false",
+                "inactivated ND vaccines"
+            ],
+            [
+                "GSLS",
+                "false",
+                "inactivated AI vaccines"
+            ],
+            [
+                "inactivated ND vaccines",
+                "false",
+                "inactivated AI vaccines"
+            ]
+        ]
+    },
+    {
+        "text": "Although it was previously reported that lapatinib combined with Herceptin improved the progression-free survival rate compared with lapatinib alone for patients with Herceptin-refractory HER2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents.",
+        "triple_list": [
+            [
+                "lapatinib",
+                "effect",
+                "Herceptin"
+            ],
+            [
+                "lapatinib",
+                "false",
+                "lapatinib"
+            ],
+            [
+                "lapatinib",
+                "false",
+                "Herceptin"
+            ],
+            [
+                "Herceptin",
+                "false",
+                "lapatinib"
+            ],
+            [
+                "Herceptin",
+                "false",
+                "Herceptin"
+            ],
+            [
+                "lapatinib",
+                "false",
+                "Herceptin"
+            ]
+        ]
+    },
+    {
+        "text": "saline + saline, ephedrine (10   mg/kg) + saline, saline + dexmedetomidine (15     g/kg) and ephedrine (10   mg/kg) + dexmedetomidine (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests.",
+        "triple_list": [
+            [
+                "ephedrine",
+                "false",
+                "dexmedetomidine"
+            ],
+            [
+                "ephedrine",
+                "false",
+                "ephedrine"
+            ],
+            [
+                "ephedrine",
+                "false",
+                "dexmedetomidine"
+            ],
+            [
+                "dexmedetomidine",
+                "false",
+                "ephedrine"
+            ],
+            [
+                "dexmedetomidine",
+                "false",
+                "dexmedetomidine"
+            ],
+            [
+                "ephedrine",
+                "false",
+                "dexmedetomidine"
+            ]
+        ]
+    },
+    {
+        "text": "We concluded that the combined administration of dexmedetomidine with ephedrine may have beneficial effects in the treatment of pain without causing sedation, which limits the use of dexmedetomidine as an analgesic in humans.",
+        "triple_list": [
+            [
+                "dexmedetomidine",
+                "effect",
+                "ephedrine"
+            ],
+            [
+                "dexmedetomidine",
+                "false",
+                "dexmedetomidine"
+            ],
+            [
+                "dexmedetomidine",
+                "false",
+                "analgesic"
+            ],
+            [
+                "ephedrine",
+                "false",
+                "dexmedetomidine"
+            ],
+            [
+                "ephedrine",
+                "false",
+                "analgesic"
+            ],
+            [
+                "dexmedetomidine",
+                "false",
+                "analgesic"
+            ]
+        ]
+    },
+    {
+        "text": "Ticagrelor (Brilinta)--better than clopidogrel (Plavix)",
+        "triple_list": [
+            [
+                "Ticagrelor",
+                "false",
+                "Brilinta"
+            ],
+            [
+                "Ticagrelor",
+                "false",
+                "clopidogrel"
+            ],
+            [
+                "Ticagrelor",
+                "false",
+                "Plavix"
+            ],
+            [
+                "Brilinta",
+                "false",
+                "clopidogrel"
+            ],
+            [
+                "Brilinta",
+                "false",
+                "Plavix"
+            ],
+            [
+                "clopidogrel",
+                "false",
+                "Plavix"
+            ]
+        ]
+    },
+    {
+        "text": "The FDA has approved ticagrelor (Brilinta-AstraZeneca), an oral antiplatelet drug, for use with low-dose aspirin to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (ACS).",
+        "triple_list": [
+            [
+                "ticagrelor",
+                "false",
+                "Brilinta"
+            ],
+            [
+                "ticagrelor",
+                "false",
+                "antiplatelet drug"
+            ],
+            [
+                "ticagrelor",
+                "effect",
+                "aspirin"
+            ],
+            [
+                "Brilinta",
+                "false",
+                "antiplatelet drug"
+            ],
+            [
+                "Brilinta",
+                "effect",
+                "aspirin"
+            ],
+            [
+                "antiplatelet drug",
+                "false",
+                "aspirin"
+            ]
+        ]
+    },
+    {
+        "text": "It will compete with clopidogrel (Plavix) and prasugrel (Effient) for such use.",
+        "triple_list": [
+            [
+                "clopidogrel",
+                "false",
+                "Plavix"
+            ],
+            [
+                "clopidogrel",
+                "false",
+                "prasugrel"
+            ],
+            [
+                "clopidogrel",
+                "false",
+                "Effient"
+            ],
+            [
+                "Plavix",
+                "false",
+                "prasugrel"
+            ],
+            [
+                "Plavix",
+                "false",
+                "Effient"
+            ],
+            [
+                "prasugrel",
+                "false",
+                "Effient"
+            ]
+        ]
+    },
+    {
+        "text": "In the present study piperine (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of ibuprofen evaluated by both acetic acid writhing and formalin test, when it was administered with ibuprofen.",
+        "triple_list": [
+            [
+                "piperine",
+                "effect",
+                "ibuprofen"
+            ],
+            [
+                "piperine",
+                "false",
+                "acetic acid"
+            ],
+            [
+                "piperine",
+                "false",
+                "ibuprofen"
+            ],
+            [
+                "ibuprofen",
+                "false",
+                "acetic acid"
+            ],
+            [
+                "ibuprofen",
+                "false",
+                "ibuprofen"
+            ],
+            [
+                "acetic acid",
+                "false",
+                "ibuprofen"
+            ]
+        ]
+    },
+    {
+        "text": "Ethanol decreases the elimination of abacavir causing an increase in overall exposure . The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.",
+        "triple_list": [
+            [
+                "Ethanol",
+                "mechanism",
+                "abacavir"
+            ],
+            [
+                "Ethanol",
+                "false",
+                "methadone"
+            ],
+            [
+                "Ethanol",
+                "false",
+                "abacavir"
+            ],
+            [
+                "abacavir",
+                "false",
+                "methadone"
+            ],
+            [
+                "abacavir",
+                "false",
+                "abacavir"
+            ],
+            [
+                "methadone",
+                "false",
+                "abacavir"
+            ]
+        ]
+    },
+    {
+        "text": "Multiple dose studies of ezetimibe given in combination with HMG-CoA reductase inhibitors (statins) in rats and rabbits during organogenesis result in higher ezetimibe and statin exposures.",
+        "triple_list": [
+            [
+                "ezetimibe",
+                "false",
+                "HMG-CoA reductase inhibitors"
+            ],
+            [
+                "ezetimibe",
+                "false",
+                "statins"
+            ],
+            [
+                "ezetimibe",
+                "false",
+                "ezetimibe"
+            ],
+            [
+                "HMG-CoA reductase inhibitors",
+                "false",
+                "statins"
+            ],
+            [
+                "HMG-CoA reductase inhibitors",
+                "false",
+                "ezetimibe"
+            ],
+            [
+                "statins",
+                "false",
+                "ezetimibe"
+            ]
+        ]
+    },
+    {
+        "text": "DIFLUCAN reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.",
+        "triple_list": [
+            [
+                "DIFLUCAN",
+                "mechanism",
+                "tolbutamide"
+            ],
+            [
+                "DIFLUCAN",
+                "mechanism",
+                "glyburide"
+            ],
+            [
+                "DIFLUCAN",
+                "mechanism",
+                "glipizide"
+            ],
+            [
+                "tolbutamide",
+                "false",
+                "glyburide"
+            ],
+            [
+                "tolbutamide",
+                "false",
+                "glipizide"
+            ],
+            [
+                "glyburide",
+                "false",
+                "glipizide"
+            ]
+        ]
+    },
+    {
+        "text": "Short-acting Benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.",
+        "triple_list": [
+            [
+                "Short-acting Benzodiazepines",
+                "false",
+                "midazolam"
+            ],
+            [
+                "Short-acting Benzodiazepines",
+                "false",
+                "fluconazole"
+            ],
+            [
+                "Short-acting Benzodiazepines",
+                "false",
+                "midazolam"
+            ],
+            [
+                "midazolam",
+                "mechanism",
+                "fluconazole"
+            ],
+            [
+                "midazolam",
+                "false",
+                "midazolam"
+            ],
+            [
+                "fluconazole",
+                "false",
+                "midazolam"
+            ]
+        ]
+    },
+    {
+        "text": "The effects of indinavir, zidovudine or rifabutin on the pharmacokinetics of megestrol acetate were not studied.",
+        "triple_list": [
+            [
+                "indinavir",
+                "false",
+                "zidovudine"
+            ],
+            [
+                "indinavir",
+                "false",
+                "rifabutin"
+            ],
+            [
+                "indinavir",
+                "false",
+                "megestrol acetate"
+            ],
+            [
+                "zidovudine",
+                "false",
+                "rifabutin"
+            ],
+            [
+                "zidovudine",
+                "false",
+                "megestrol acetate"
+            ],
+            [
+                "rifabutin",
+                "false",
+                "megestrol acetate"
+            ]
+        ]
+    },
+    {
+        "text": "Furosemide: Clinical studies, as well as post-marketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazide diuretics in some patients.",
+        "triple_list": [
+            [
+                "Furosemide",
+                "false",
+                "NSAIDs"
+            ],
+            [
+                "Furosemide",
+                "false",
+                "furosemide"
+            ],
+            [
+                "Furosemide",
+                "false",
+                "thiazide diuretics"
+            ],
+            [
+                "NSAIDs",
+                "effect",
+                "furosemide"
+            ],
+            [
+                "NSAIDs",
+                "effect",
+                "thiazide diuretics"
+            ],
+            [
+                "furosemide",
+                "false",
+                "thiazide diuretics"
+            ]
+        ]
+    },
+    {
+        "text": "Lithium: In clinical trials, NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.",
+        "triple_list": [
+            [
+                "Lithium",
+                "false",
+                "NSAIDs"
+            ],
+            [
+                "Lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "Lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "NSAIDs",
+                "mechanism",
+                "lithium"
+            ],
+            [
+                "NSAIDs",
+                "false",
+                "lithium"
+            ],
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ]
+        ]
+    },
+    {
+        "text": "In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving lithium doses ranging from 804 to 1072 mg BID with meloxicam 15 mg QD as compared to subjects receiving lithium alone.",
+        "triple_list": [
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "lithium",
+                "false",
+                "meloxicam"
+            ],
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "lithium",
+                "mechanism",
+                "meloxicam"
+            ],
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "meloxicam",
+                "false",
+                "lithium"
+            ]
+        ]
+    },
+    {
+        "text": "DRUG INTERACTIONS  There are no known drug/drug interactions with oral ALKERAN  Vaccinations with live organism vaccines are not recommended in immunocompromised individuals  Nalidixic acid together with high-dose intravenous melphalan has caused deaths in children due to haemorrhagic enterocolitis.",
+        "triple_list": [
+            [
+                "ALKERAN",
+                "false",
+                "live organism vaccines"
+            ],
+            [
+                "ALKERAN",
+                "false",
+                "Nalidixic acid"
+            ],
+            [
+                "ALKERAN",
+                "false",
+                "melphalan"
+            ],
+            [
+                "live organism vaccines",
+                "false",
+                "Nalidixic acid"
+            ],
+            [
+                "live organism vaccines",
+                "false",
+                "melphalan"
+            ],
+            [
+                "Nalidixic acid",
+                "effect",
+                "melphalan"
+            ]
+        ]
+    },
+    {
+        "text": "Those anticonvulsants include divalproex sodium, valproic acid, and phenobarbital.",
+        "triple_list": [
+            [
+                "anticonvulsants",
+                "false",
+                "divalproex sodium"
+            ],
+            [
+                "anticonvulsants",
+                "false",
+                "valproic acid"
+            ],
+            [
+                "anticonvulsants",
+                "false",
+                "phenobarbital"
+            ],
+            [
+                "divalproex sodium",
+                "false",
+                "valproic acid"
+            ],
+            [
+                "divalproex sodium",
+                "false",
+                "phenobarbital"
+            ],
+            [
+                "valproic acid",
+                "false",
+                "phenobarbital"
+            ]
+        ]
+    },
+    {
+        "text": "SKELAXIN may enhance the effects of alcohol, barbiturates and other CNS depressants.",
+        "triple_list": [
+            [
+                "SKELAXIN",
+                "effect",
+                "alcohol"
+            ],
+            [
+                "SKELAXIN",
+                "effect",
+                "barbiturates"
+            ],
+            [
+                "SKELAXIN",
+                "effect",
+                "CNS depressants"
+            ],
+            [
+                "alcohol",
+                "false",
+                "barbiturates"
+            ],
+            [
+                "alcohol",
+                "false",
+                "CNS depressants"
+            ],
+            [
+                "barbiturates",
+                "false",
+                "CNS depressants"
+            ]
+        ]
+    },
+    {
+        "text": "Caution is advised for patients receiving high-dose aspirin and methazolamide concomitantly, as anorexia, tachypnea, lethargy, coma and death have been reported with concomitant use of high-dose aspirin and carbonic anhydrase inhibitors.",
+        "triple_list": [
+            [
+                "aspirin",
+                "advise",
+                "methazolamide"
+            ],
+            [
+                "aspirin",
+                "false",
+                "aspirin"
+            ],
+            [
+                "aspirin",
+                "false",
+                "carbonic anhydrase inhibitors"
+            ],
+            [
+                "methazolamide",
+                "false",
+                "aspirin"
+            ],
+            [
+                "methazolamide",
+                "false",
+                "carbonic anhydrase inhibitors"
+            ],
+            [
+                "aspirin",
+                "effect",
+                "carbonic anhydrase inhibitors"
+            ]
+        ]
+    },
+    {
+        "text": "Exert particular caution in combining levomepromazine with other anticholinergic drugs (tricyclic antidepressants and antiparkinsonian-agents): Particularly the elderly may develop delirium, high fever, severe obstipation, even ileus and glaucoma.",
+        "triple_list": [
+            [
+                "levomepromazine",
+                "advise",
+                "anticholinergic drugs"
+            ],
+            [
+                "levomepromazine",
+                "advise",
+                "tricyclic antidepressants"
+            ],
+            [
+                "levomepromazine",
+                "advise",
+                "antiparkinsonian-agents"
+            ],
+            [
+                "anticholinergic drugs",
+                "false",
+                "tricyclic antidepressants"
+            ],
+            [
+                "anticholinergic drugs",
+                "false",
+                "antiparkinsonian-agents"
+            ],
+            [
+                "tricyclic antidepressants",
+                "false",
+                "antiparkinsonian-agents"
+            ]
+        ]
+    },
+    {
+        "text": "Caffeine and/or stimulantes of the ephedrine/amphetamine type may counteract the specific actions of levomepromazine.",
+        "triple_list": [
+            [
+                "Caffeine",
+                "false",
+                "ephedrine"
+            ],
+            [
+                "Caffeine",
+                "false",
+                "amphetamine"
+            ],
+            [
+                "Caffeine",
+                "effect",
+                "levomepromazine"
+            ],
+            [
+                "ephedrine",
+                "false",
+                "amphetamine"
+            ],
+            [
+                "ephedrine",
+                "effect",
+                "levomepromazine"
+            ],
+            [
+                "amphetamine",
+                "effect",
+                "levomepromazine"
+            ]
+        ]
+    },
+    {
+        "text": "Caution should be exercised when Methergine    (methylergonovine maleate) is used concurrently with other vasoconstrictors or ergot alkaloids.",
+        "triple_list": [
+            [
+                "Methergine",
+                "false",
+                "methylergonovine maleate"
+            ],
+            [
+                "Methergine",
+                "advise",
+                "vasoconstrictors"
+            ],
+            [
+                "Methergine",
+                "advise",
+                "ergot alkaloids"
+            ],
+            [
+                "methylergonovine maleate",
+                "advise",
+                "vasoconstrictors"
+            ],
+            [
+                "methylergonovine maleate",
+                "false",
+                "ergot alkaloids"
+            ],
+            [
+                "vasoconstrictors",
+                "false",
+                "ergot alkaloids"
+            ]
+        ]
+    },
+    {
+        "text": "Concurrent use with vasoconstrictor agents including ergot alkaloids, sumatriptan, and nicotine (e.g. smoking) may result in enhanced vasoconstriction.",
+        "triple_list": [
+            [
+                "vasoconstrictor agents",
+                "false",
+                "ergot alkaloids"
+            ],
+            [
+                "vasoconstrictor agents",
+                "false",
+                "sumatriptan"
+            ],
+            [
+                "vasoconstrictor agents",
+                "false",
+                "nicotine"
+            ],
+            [
+                "ergot alkaloids",
+                "false",
+                "sumatriptan"
+            ],
+            [
+                "ergot alkaloids",
+                "false",
+                "nicotine"
+            ],
+            [
+                "sumatriptan",
+                "false",
+                "nicotine"
+            ]
+        ]
+    },
+    {
+        "text": "Diuretics: Furosemide and probably other loop diuretics given concomitantly with metolazone can cause unusually large or prolonged losses of fluid and electrolytes.",
+        "triple_list": [
+            [
+                "Diuretics",
+                "false",
+                "Furosemide"
+            ],
+            [
+                "Diuretics",
+                "false",
+                "loop diuretics"
+            ],
+            [
+                "Diuretics",
+                "false",
+                "metolazone"
+            ],
+            [
+                "Furosemide",
+                "false",
+                "loop diuretics"
+            ],
+            [
+                "Furosemide",
+                "effect",
+                "metolazone"
+            ],
+            [
+                "loop diuretics",
+                "effect",
+                "metolazone"
+            ]
+        ]
+    },
+    {
+        "text": "Alcohol, Barbiturates, and Narcotics: The hypotensive effects of these drugs may be potentiated by the volume contraction that may be associated with metolazone therapy.",
+        "triple_list": [
+            [
+                "Alcohol",
+                "false",
+                "Barbiturates"
+            ],
+            [
+                "Alcohol",
+                "false",
+                "Narcotics"
+            ],
+            [
+                "Alcohol",
+                "false",
+                "metolazone"
+            ],
+            [
+                "Barbiturates",
+                "false",
+                "Narcotics"
+            ],
+            [
+                "Barbiturates",
+                "false",
+                "metolazone"
+            ],
+            [
+                "Narcotics",
+                "false",
+                "metolazone"
+            ]
+        ]
+    },
+    {
+        "text": "Curariform Drugs: Diuretic-induced hypokalemia may enhance neuromuscular blocking effects of curariform drugs (such as tubocurarine) the most serious effect would be respiratory depression which could proceed to apnea.",
+        "triple_list": [
+            [
+                "Curariform Drugs",
+                "false",
+                "Diuretic"
+            ],
+            [
+                "Curariform Drugs",
+                "false",
+                "curariform drugs"
+            ],
+            [
+                "Curariform Drugs",
+                "false",
+                "tubocurarine"
+            ],
+            [
+                "Diuretic",
+                "effect",
+                "curariform drugs"
+            ],
+            [
+                "Diuretic",
+                "effect",
+                "tubocurarine"
+            ],
+            [
+                "curariform drugs",
+                "false",
+                "tubocurarine"
+            ]
+        ]
+    },
+    {
+        "text": "Anticoagulants: Metolazone, as well as other thiazide-like diuretics, may affect the hypoprothrombinemic response to anticoagulants;",
+        "triple_list": [
+            [
+                "Anticoagulants",
+                "false",
+                "Metolazone"
+            ],
+            [
+                "Anticoagulants",
+                "false",
+                "thiazide-like diuretics"
+            ],
+            [
+                "Anticoagulants",
+                "false",
+                "anticoagulants"
+            ],
+            [
+                "Metolazone",
+                "false",
+                "thiazide-like diuretics"
+            ],
+            [
+                "Metolazone",
+                "effect",
+                "anticoagulants"
+            ],
+            [
+                "thiazide-like diuretics",
+                "false",
+                "anticoagulants"
+            ]
+        ]
+    },
+    {
+        "text": "ECG intervals (PR, QRS, and QT) were not affected by concurrent Mexitil    and digoxin, diuretics, or propranolol.",
+        "triple_list": [
+            [
+                "Mexitil",
+                "false",
+                "digoxin"
+            ],
+            [
+                "Mexitil",
+                "false",
+                "diuretics"
+            ],
+            [
+                "Mexitil",
+                "false",
+                "propranolol"
+            ],
+            [
+                "digoxin",
+                "false",
+                "diuretics"
+            ],
+            [
+                "digoxin",
+                "false",
+                "propranolol"
+            ],
+            [
+                "diuretics",
+                "false",
+                "propranolol"
+            ]
+        ]
+    },
+    {
+        "text": "Inducers of CYP3A4 Isozymes: Cytochrome P450 inducers, such as rifampin, carbamazepine, and phenytoin, induce metabolism and caused a markedly decreased C max and AUC of oral midazolam in adult studies.",
+        "triple_list": [
+            [
+                "rifampin",
+                "false",
+                "carbamazepine"
+            ],
+            [
+                "rifampin",
+                "false",
+                "phenytoin"
+            ],
+            [
+                "rifampin",
+                "mechanism",
+                "midazolam"
+            ],
+            [
+                "carbamazepine",
+                "false",
+                "phenytoin"
+            ],
+            [
+                "carbamazepine",
+                "mechanism",
+                "midazolam"
+            ],
+            [
+                "phenytoin",
+                "mechanism",
+                "midazolam"
+            ]
+        ]
+    },
+    {
+        "text": "Isoflurane and enflurane (administered with nitrous oxide/oxygen to achieve 1.25 M.C.",
+        "triple_list": [
+            [
+                "Isoflurane",
+                "false",
+                "enflurane"
+            ],
+            [
+                "Isoflurane",
+                "false",
+                "nitrous oxide"
+            ],
+            [
+                "Isoflurane",
+                "false",
+                "oxygen"
+            ],
+            [
+                "enflurane",
+                "false",
+                "nitrous oxide"
+            ],
+            [
+                "enflurane",
+                "false",
+                "oxygen"
+            ],
+            [
+                "nitrous oxide",
+                "false",
+                "oxygen"
+            ]
+        ]
+    },
+    {
+        "text": "Other Agents: No clinically important pharmacokinetic interactions occurred when UNIVASC    was administered concomitantly with hydrochlorothiazide, digoxin, or cimetidine.",
+        "triple_list": [
+            [
+                "UNIVASC",
+                "false",
+                "hydrochlorothiazide"
+            ],
+            [
+                "UNIVASC",
+                "false",
+                "digoxin"
+            ],
+            [
+                "UNIVASC",
+                "false",
+                "cimetidine"
+            ],
+            [
+                "hydrochlorothiazide",
+                "false",
+                "digoxin"
+            ],
+            [
+                "hydrochlorothiazide",
+                "false",
+                "cimetidine"
+            ],
+            [
+                "digoxin",
+                "false",
+                "cimetidine"
+            ]
+        ]
+    },
+    {
+        "text": "Montelukast at Doses of    100 mg Daily Dosed to Pharmacokinetic Steady State:  - did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg.",
+        "triple_list": [
+            [
+                "Montelukast",
+                "false",
+                "contraceptive"
+            ],
+            [
+                "Montelukast",
+                "false",
+                "norethindrone"
+            ],
+            [
+                "Montelukast",
+                "false",
+                "estradiol"
+            ],
+            [
+                "contraceptive",
+                "false",
+                "norethindrone"
+            ],
+            [
+                "contraceptive",
+                "false",
+                "estradiol"
+            ],
+            [
+                "norethindrone",
+                "false",
+                "estradiol"
+            ]
+        ]
+    },
+    {
+        "text": "- did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone.",
+        "triple_list": [
+            [
+                "prednisone",
+                "false",
+                "prednisolone"
+            ],
+            [
+                "prednisone",
+                "false",
+                "prednisone"
+            ],
+            [
+                "prednisone",
+                "false",
+                "prednisolone"
+            ],
+            [
+                "prednisolone",
+                "false",
+                "prednisone"
+            ],
+            [
+                "prednisolone",
+                "false",
+                "prednisolone"
+            ],
+            [
+                "prednisone",
+                "false",
+                "prednisolone"
+            ]
+        ]
+    },
+    {
+        "text": "Therefore, do not administer Myfortic with cholestyramine or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, for example bile acid sequestrates or oral activated charcoal, because of the potential to reduce the efficacy of Myfortic.",
+        "triple_list": [
+            [
+                "Myfortic",
+                "advise",
+                "cholestyramine"
+            ],
+            [
+                "Myfortic",
+                "advise",
+                "activated charcoal"
+            ],
+            [
+                "Myfortic",
+                "false",
+                "Myfortic"
+            ],
+            [
+                "cholestyramine",
+                "false",
+                "activated charcoal"
+            ],
+            [
+                "cholestyramine",
+                "false",
+                "Myfortic"
+            ],
+            [
+                "activated charcoal",
+                "false",
+                "Myfortic"
+            ]
+        ]
+    },
+    {
+        "text": "In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.",
+        "triple_list": [
+            [
+                "carmustine",
+                "false",
+                "etoposide"
+            ],
+            [
+                "carmustine",
+                "false",
+                "cisplatin"
+            ],
+            [
+                "carmustine",
+                "false",
+                "ondansetron"
+            ],
+            [
+                "etoposide",
+                "false",
+                "cisplatin"
+            ],
+            [
+                "etoposide",
+                "false",
+                "ondansetron"
+            ],
+            [
+                "cisplatin",
+                "false",
+                "ondansetron"
+            ]
+        ]
+    },
+    {
+        "text": "Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated.",
+        "triple_list": [
+            [
+                "Beta adrenergic agonists",
+                "advise",
+                "monoamine oxidase inhibitors"
+            ],
+            [
+                "Beta adrenergic agonists",
+                "advise",
+                "tricyclic antidepressants"
+            ],
+            [
+                "Beta adrenergic agonists",
+                "false",
+                "beta adrenergic agonists"
+            ],
+            [
+                "monoamine oxidase inhibitors",
+                "false",
+                "tricyclic antidepressants"
+            ],
+            [
+                "monoamine oxidase inhibitors",
+                "false",
+                "beta adrenergic agonists"
+            ],
+            [
+                "tricyclic antidepressants",
+                "false",
+                "beta adrenergic agonists"
+            ]
+        ]
+    },
+    {
+        "text": "Digoxin: In 12 normal-weight subjects receiving XENICAL 120 mg three times a day for 6 days, XENICAL did not alter the pharmacokinetics of a single dose of digoxin.",
+        "triple_list": [
+            [
+                "Digoxin",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Digoxin",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Digoxin",
+                "false",
+                "digoxin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "digoxin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "digoxin"
+            ]
+        ]
+    },
+    {
+        "text": "The effect of orlistat on the absorption of supplemental vitamin D, vitamin A, and nutritionally-derived vitamin K is not known at this time.",
+        "triple_list": [
+            [
+                "orlistat",
+                "false",
+                "vitamin D"
+            ],
+            [
+                "orlistat",
+                "false",
+                "vitamin A"
+            ],
+            [
+                "orlistat",
+                "false",
+                "vitamin K"
+            ],
+            [
+                "vitamin D",
+                "false",
+                "vitamin A"
+            ],
+            [
+                "vitamin D",
+                "false",
+                "vitamin K"
+            ],
+            [
+                "vitamin A",
+                "false",
+                "vitamin K"
+            ]
+        ]
+    },
+    {
+        "text": "Glyburide: In 12 normal-weight subjects receiving orlistat 80 mg three times a day for 5 days, orlistat did not alter the pharmacokinetics or pharmacodynamics (blood glucose-lowering) of glyburide.",
+        "triple_list": [
+            [
+                "Glyburide",
+                "false",
+                "orlistat"
+            ],
+            [
+                "Glyburide",
+                "false",
+                "orlistat"
+            ],
+            [
+                "Glyburide",
+                "false",
+                "glyburide"
+            ],
+            [
+                "orlistat",
+                "false",
+                "orlistat"
+            ],
+            [
+                "orlistat",
+                "false",
+                "glyburide"
+            ],
+            [
+                "orlistat",
+                "false",
+                "glyburide"
+            ]
+        ]
+    },
+    {
+        "text": "Nifedipine (extended-release tablets): In 17 normal-weight subjects receiving XENICAL 120 mg three times a day for 6 days, XENICAL did not alter the bioavailability of nifedipine (extended-release tablets).",
+        "triple_list": [
+            [
+                "Nifedipine",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Nifedipine",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Nifedipine",
+                "false",
+                "nifedipine"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "nifedipine"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "nifedipine"
+            ]
+        ]
+    },
+    {
+        "text": "Phenytoin: In 12 normal-weight subjects receiving XENICAL 120 mg three times a day for 7 days, XENICAL did not alter the pharmacokinetics of a single 300-mg dose of phenytoin.",
+        "triple_list": [
+            [
+                "Phenytoin",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Phenytoin",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Phenytoin",
+                "false",
+                "phenytoin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "phenytoin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "phenytoin"
+            ]
+        ]
+    },
+    {
+        "text": "Pravastatin: In a 2-way crossover study of 24 normal-weight, mildly hypercholesterolemic patients receiving XENICAL 120 mg three times a day for 6 days, XENICAL did not affect the pharmacokinetics of pravastatin.",
+        "triple_list": [
+            [
+                "Pravastatin",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Pravastatin",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "Pravastatin",
+                "false",
+                "pravastatin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "pravastatin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "pravastatin"
+            ]
+        ]
+    },
+    {
+        "text": "Therefore, as vitamin K absorption may be decreased with XENICAL, patients on chronic stable doses of warfarin who are prescribed XENICAL should be monitored closely for changes in coagulation parameters.",
+        "triple_list": [
+            [
+                "vitamin K",
+                "mechanism",
+                "XENICAL"
+            ],
+            [
+                "vitamin K",
+                "false",
+                "warfarin"
+            ],
+            [
+                "vitamin K",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "warfarin"
+            ],
+            [
+                "XENICAL",
+                "false",
+                "XENICAL"
+            ],
+            [
+                "warfarin",
+                "advise",
+                "XENICAL"
+            ]
+        ]
+    },
+    {
+        "text": "Adrenal steroids or ACTH In patients with edema, concomitant administration with adrenal cortical steroids or ACTH may increase the edema.",
+        "triple_list": [
+            [
+                "Adrenal steroids",
+                "false",
+                "ACTH"
+            ],
+            [
+                "Adrenal steroids",
+                "false",
+                "adrenal cortical steroids"
+            ],
+            [
+                "Adrenal steroids",
+                "false",
+                "ACTH"
+            ],
+            [
+                "ACTH",
+                "false",
+                "adrenal cortical steroids"
+            ],
+            [
+                "ACTH",
+                "false",
+                "ACTH"
+            ],
+            [
+                "adrenal cortical steroids",
+                "false",
+                "ACTH"
+            ]
+        ]
+    },
+    {
+        "text": "Given the primary CNS effects of paliperidone, INVEGA    should be used with caution in combination with other centrally acting drugs and alcohol.",
+        "triple_list": [
+            [
+                "paliperidone",
+                "false",
+                "INVEGA"
+            ],
+            [
+                "paliperidone",
+                "advise",
+                "centrally acting drugs"
+            ],
+            [
+                "paliperidone",
+                "advise",
+                "alcohol"
+            ],
+            [
+                "INVEGA",
+                "advise",
+                "centrally acting drugs"
+            ],
+            [
+                "INVEGA",
+                "advise",
+                "alcohol"
+            ],
+            [
+                "centrally acting drugs",
+                "false",
+                "alcohol"
+            ]
+        ]
+    },
+    {
+        "text": "Because of profound and long lasting inhibition of gastric acid secretion, pantoprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, ketoconazole, ampicillin esters, and iron salts).",
+        "triple_list": [
+            [
+                "pantoprazole",
+                "mechanism",
+                "ketoconazole"
+            ],
+            [
+                "pantoprazole",
+                "mechanism",
+                "ampicillin"
+            ],
+            [
+                "pantoprazole",
+                "mechanism",
+                "iron"
+            ],
+            [
+                "ketoconazole",
+                "false",
+                "ampicillin"
+            ],
+            [
+                "ketoconazole",
+                "false",
+                "iron"
+            ],
+            [
+                "ampicillin",
+                "false",
+                "iron"
+            ]
+        ]
+    },
+    {
+        "text": "Laboratory Tests There have been reports of false-positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving most proton pump inhibitors, including pantoprazole.",
+        "triple_list": [
+            [
+                "tetrahydrocannabinol",
+                "false",
+                "THC"
+            ],
+            [
+                "tetrahydrocannabinol",
+                "false",
+                "proton pump inhibitors"
+            ],
+            [
+                "tetrahydrocannabinol",
+                "false",
+                "pantoprazole"
+            ],
+            [
+                "THC",
+                "false",
+                "proton pump inhibitors"
+            ],
+            [
+                "THC",
+                "false",
+                "pantoprazole"
+            ],
+            [
+                "proton pump inhibitors",
+                "false",
+                "pantoprazole"
+            ]
+        ]
+    },
+    {
+        "text": "Although ibuprofen (400 mg qid) can be administered with ALIMTA in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min).",
+        "triple_list": [
+            [
+                "ibuprofen",
+                "false",
+                "ALIMTA"
+            ],
+            [
+                "ibuprofen",
+                "false",
+                "ibuprofen"
+            ],
+            [
+                "ibuprofen",
+                "false",
+                "ALIMTA"
+            ],
+            [
+                "ALIMTA",
+                "false",
+                "ibuprofen"
+            ],
+            [
+                "ALIMTA",
+                "false",
+                "ALIMTA"
+            ],
+            [
+                "ibuprofen",
+                "advise",
+                "ALIMTA"
+            ]
+        ]
+    },
+    {
+        "text": "In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration.",
+        "triple_list": [
+            [
+                "ALIMTA",
+                "false",
+                "NSAIDs"
+            ],
+            [
+                "ALIMTA",
+                "false",
+                "NSAIDs"
+            ],
+            [
+                "ALIMTA",
+                "false",
+                "ALIMTA"
+            ],
+            [
+                "NSAIDs",
+                "false",
+                "NSAIDs"
+            ],
+            [
+                "NSAIDs",
+                "false",
+                "ALIMTA"
+            ],
+            [
+                "NSAIDs",
+                "advise",
+                "ALIMTA"
+            ]
+        ]
+    },
+    {
+        "text": "Concurrent administration of bacteriostatic antibiotics (e.g., erythromycin, tetracycline) may diminish the bactericidal effects of penicillins by slowing the rate of bacterial growth.",
+        "triple_list": [
+            [
+                "bacteriostatic antibiotics",
+                "false",
+                "erythromycin"
+            ],
+            [
+                "bacteriostatic antibiotics",
+                "false",
+                "tetracycline"
+            ],
+            [
+                "bacteriostatic antibiotics",
+                "effect",
+                "penicillins"
+            ],
+            [
+                "erythromycin",
+                "false",
+                "tetracycline"
+            ],
+            [
+                "erythromycin",
+                "effect",
+                "penicillins"
+            ],
+            [
+                "tetracycline",
+                "effect",
+                "penicillins"
+            ]
+        ]
+    },
+    {
+        "text": "Concomitant administration of TRENTAL and theophylline-containing drugs leads to increased theophylline levels and theophylline toxicity in some individuals.",
+        "triple_list": [
+            [
+                "TRENTAL",
+                "mechanism",
+                "theophylline"
+            ],
+            [
+                "TRENTAL",
+                "false",
+                "theophylline"
+            ],
+            [
+                "TRENTAL",
+                "false",
+                "theophylline"
+            ],
+            [
+                "theophylline",
+                "false",
+                "theophylline"
+            ],
+            [
+                "theophylline",
+                "false",
+                "theophylline"
+            ],
+            [
+                "theophylline",
+                "false",
+                "theophylline"
+            ]
+        ]
+    },
+    {
+        "text": "Lithium: Increased serum lithium and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy.",
+        "triple_list": [
+            [
+                "Lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "Lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "Lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ],
+            [
+                "lithium",
+                "false",
+                "lithium"
+            ]
+        ]
+    },
+    {
+        "text": "MAO Inhibitors: The pressor effect of sympathomimetic pressor amines is markedly potentiated in patients receiving monoamine oxidase inhibitors (MAOI).",
+        "triple_list": [
+            [
+                "MAO Inhibitors",
+                "false",
+                "sympathomimetic pressor amines"
+            ],
+            [
+                "MAO Inhibitors",
+                "false",
+                "monoamine oxidase inhibitors"
+            ],
+            [
+                "MAO Inhibitors",
+                "false",
+                "MAOI"
+            ],
+            [
+                "sympathomimetic pressor amines",
+                "effect",
+                "monoamine oxidase inhibitors"
+            ],
+            [
+                "sympathomimetic pressor amines",
+                "effect",
+                "MAOI"
+            ],
+            [
+                "monoamine oxidase inhibitors",
+                "false",
+                "MAOI"
+            ]
+        ]
+    },
+    {
+        "text": "MAO Inhibitors - The pressor effect of sympathomimetic pressor amines is markedly potentiated in patients receiving monoamine oxidase inhibitors (MAOI).",
+        "triple_list": [
+            [
+                "MAO Inhibitors",
+                "false",
+                "sympathomimetic pressor amines"
+            ],
+            [
+                "MAO Inhibitors",
+                "false",
+                "monoamine oxidase inhibitors"
+            ],
+            [
+                "MAO Inhibitors",
+                "false",
+                "MAOI"
+            ],
+            [
+                "sympathomimetic pressor amines",
+                "effect",
+                "monoamine oxidase inhibitors"
+            ],
+            [
+                "sympathomimetic pressor amines",
+                "effect",
+                "MAOI"
+            ],
+            [
+                "monoamine oxidase inhibitors",
+                "false",
+                "MAOI"
+            ]
+        ]
+    },
+    {
+        "text": "Due to its effects on gastric emptying, SYMLIN therapy should not be considered for patients taking drugs that alter gastrointestinal motility (e.g., anticholinergic agents such as atropine) and agents that slow the intestinal absorption of nutrients (e.g., alpha glucosidase inhibitors).",
+        "triple_list": [
+            [
+                "SYMLIN",
+                "advise",
+                "anticholinergic agents"
+            ],
+            [
+                "SYMLIN",
+                "advise",
+                "atropine"
+            ],
+            [
+                "SYMLIN",
+                "advise",
+                "alpha glucosidase inhibitors"
+            ],
+            [
+                "anticholinergic agents",
+                "false",
+                "atropine"
+            ],
+            [
+                "anticholinergic agents",
+                "false",
+                "alpha glucosidase inhibitors"
+            ],
+            [
+                "atropine",
+                "false",
+                "alpha glucosidase inhibitors"
+            ]
+        ]
+    },
+    {
+        "text": "Mixing SYMLIN and Insulin The pharmacokinetic parameters of SYMLIN were altered when mixed with regular, NPH, and 70/30 premixed formulations of recombinant human insulin immediately prior to injection.",
+        "triple_list": [
+            [
+                "SYMLIN",
+                "false",
+                "Insulin"
+            ],
+            [
+                "SYMLIN",
+                "false",
+                "SYMLIN"
+            ],
+            [
+                "SYMLIN",
+                "false",
+                "human insulin"
+            ],
+            [
+                "Insulin",
+                "false",
+                "SYMLIN"
+            ],
+            [
+                "Insulin",
+                "false",
+                "human insulin"
+            ],
+            [
+                "SYMLIN",
+                "mechanism",
+                "human insulin"
+            ]
+        ]
+    },
+    {
+        "text": "Neuromuscular blocking agents (such as suxamethonium chloride): Concurrent use of procaine hydrochloride and neuromuscular blocking agents may result in prolongation or enhancement of the neuromuscular blockade.",
+        "triple_list": [
+            [
+                "Neuromuscular blocking agents",
+                "false",
+                "suxamethonium chloride"
+            ],
+            [
+                "Neuromuscular blocking agents",
+                "false",
+                "procaine hydrochloride"
+            ],
+            [
+                "Neuromuscular blocking agents",
+                "false",
+                "neuromuscular blocking agents"
+            ],
+            [
+                "suxamethonium chloride",
+                "false",
+                "procaine hydrochloride"
+            ],
+            [
+                "suxamethonium chloride",
+                "false",
+                "neuromuscular blocking agents"
+            ],
+            [
+                "procaine hydrochloride",
+                "effect",
+                "neuromuscular blocking agents"
+            ]
+        ]
+    },
+    {
+        "text": "Sulfonamides: Concurrent use of procaine hydrochloride and sulfonamides may result in a reduction of the antibacterial action of the sulfonamide.",
+        "triple_list": [
+            [
+                "Sulfonamides",
+                "false",
+                "procaine hydrochloride"
+            ],
+            [
+                "Sulfonamides",
+                "false",
+                "sulfonamides"
+            ],
+            [
+                "Sulfonamides",
+                "false",
+                "sulfonamide"
+            ],
+            [
+                "procaine hydrochloride",
+                "effect",
+                "sulfonamides"
+            ],
+            [
+                "procaine hydrochloride",
+                "false",
+                "sulfonamide"
+            ],
+            [
+                "sulfonamides",
+                "false",
+                "sulfonamide"
+            ]
+        ]
+    },
+    {
+        "text": "Acetazolamide: Concurrent use of acetazolamide and procaine hydrochloride may extend the plasma half-life of procaine.",
+        "triple_list": [
+            [
+                "Acetazolamide",
+                "false",
+                "acetazolamide"
+            ],
+            [
+                "Acetazolamide",
+                "false",
+                "procaine hydrochloride"
+            ],
+            [
+                "Acetazolamide",
+                "false",
+                "procaine"
+            ],
+            [
+                "acetazolamide",
+                "mechanism",
+                "procaine hydrochloride"
+            ],
+            [
+                "acetazolamide",
+                "false",
+                "procaine"
+            ],
+            [
+                "procaine hydrochloride",
+                "false",
+                "procaine"
+            ]
+        ]
+    },
+    {
+        "text": "During maintenance of anesthesia or sedation, the rate of DIPRIVAN Injectable Emulsion administration should be adjusted according to the desired level of anesthesia or sedation and may be reduced in the presence of supplemental analgesic agents (eg, nitrous oxide or opioids).",
+        "triple_list": [
+            [
+                "DIPRIVAN",
+                "advise",
+                "analgesic agents"
+            ],
+            [
+                "DIPRIVAN",
+                "advise",
+                "nitrous oxide"
+            ],
+            [
+                "DIPRIVAN",
+                "advise",
+                "opioids"
+            ],
+            [
+                "analgesic agents",
+                "false",
+                "nitrous oxide"
+            ],
+            [
+                "analgesic agents",
+                "false",
+                "opioids"
+            ],
+            [
+                "nitrous oxide",
+                "false",
+                "opioids"
+            ]
+        ]
+    },
+    {
+        "text": "The concurrent administration of potent inhalational agents (eg, isoflurane, enflurane, and halothane) during maintenance with DIPRIVAN Injectable Emulsion has not been extensively evaluated.",
+        "triple_list": [
+            [
+                "isoflurane",
+                "false",
+                "enflurane"
+            ],
+            [
+                "isoflurane",
+                "false",
+                "halothane"
+            ],
+            [
+                "isoflurane",
+                "false",
+                "DIPRIVAN"
+            ],
+            [
+                "enflurane",
+                "false",
+                "halothane"
+            ],
+            [
+                "enflurane",
+                "false",
+                "DIPRIVAN"
+            ],
+            [
+                "halothane",
+                "false",
+                "DIPRIVAN"
+            ]
+        ]
+    },
+    {
+        "text": "DIPRIVAN Injectable Emulsion does not cause a clinically significant change in onset, intensity, or duration of action of the commonly used neuromuscular blocking agents (eg, succinylcholine and nondepolarizing muscle relaxants).",
+        "triple_list": [
+            [
+                "DIPRIVAN",
+                "false",
+                "neuromuscular blocking agents"
+            ],
+            [
+                "DIPRIVAN",
+                "false",
+                "succinylcholine"
+            ],
+            [
+                "DIPRIVAN",
+                "false",
+                "nondepolarizing muscle relaxants"
+            ],
+            [
+                "neuromuscular blocking agents",
+                "false",
+                "succinylcholine"
+            ],
+            [
+                "neuromuscular blocking agents",
+                "false",
+                "nondepolarizing muscle relaxants"
+            ],
+            [
+                "succinylcholine",
+                "false",
+                "nondepolarizing muscle relaxants"
+            ]
+        ]
+    },
+    {
+        "text": "Such occurrences have been reported when propoxyphene was administered to patients on antidepressants, anticonvulsants, or warfarin-like drugs.",
+        "triple_list": [
+            [
+                "propoxyphene",
+                "false",
+                "antidepressants"
+            ],
+            [
+                "propoxyphene",
+                "false",
+                "anticonvulsants"
+            ],
+            [
+                "propoxyphene",
+                "false",
+                "warfarin"
+            ],
+            [
+                "antidepressants",
+                "false",
+                "anticonvulsants"
+            ],
+            [
+                "antidepressants",
+                "false",
+                "warfarin"
+            ],
+            [
+                "anticonvulsants",
+                "false",
+                "warfarin"
+            ]
+        ]
+    },
+    {
+        "text": "Cholestyramine: Cholestyramine causes a 60% reduction in the absorption and enterohepatic cycling of raloxifene and should not be coadministered with EVISTA.",
+        "triple_list": [
+            [
+                "Cholestyramine",
+                "false",
+                "Cholestyramine"
+            ],
+            [
+                "Cholestyramine",
+                "false",
+                "raloxifene"
+            ],
+            [
+                "Cholestyramine",
+                "false",
+                "EVISTA"
+            ],
+            [
+                "Cholestyramine",
+                "mechanism",
+                "raloxifene"
+            ],
+            [
+                "Cholestyramine",
+                "advise",
+                "EVISTA"
+            ],
+            [
+                "raloxifene",
+                "false",
+                "EVISTA"
+            ]
+        ]
+    },
+    {
+        "text": "In vitro, raloxifene did not affect the binding of warfarin, phenytoin, or tamoxifen.",
+        "triple_list": [
+            [
+                "raloxifene",
+                "false",
+                "warfarin"
+            ],
+            [
+                "raloxifene",
+                "false",
+                "phenytoin"
+            ],
+            [
+                "raloxifene",
+                "false",
+                "tamoxifen"
+            ],
+            [
+                "warfarin",
+                "false",
+                "phenytoin"
+            ],
+            [
+                "warfarin",
+                "false",
+                "tamoxifen"
+            ],
+            [
+                "phenytoin",
+                "false",
+                "tamoxifen"
+            ]
+        ]
+    },
+    {
+        "text": "Coadministration of TRITEC with clarithromycin resulted in increased plasma ranitidine concentrations (57%), increased plasma bismuth trough concentrations (48%), and increased 14- hydroxy- clarithromycin plasma concentrations (31%).",
+        "triple_list": [
+            [
+                "TRITEC",
+                "mechanism",
+                "clarithromycin"
+            ],
+            [
+                "TRITEC",
+                "false",
+                "ranitidine"
+            ],
+            [
+                "TRITEC",
+                "false",
+                "14- hydroxy- clarithromycin"
+            ],
+            [
+                "clarithromycin",
+                "false",
+                "ranitidine"
+            ],
+            [
+                "clarithromycin",
+                "false",
+                "14- hydroxy- clarithromycin"
+            ],
+            [
+                "ranitidine",
+                "false",
+                "14- hydroxy- clarithromycin"
+            ]
+        ]
+    },
+    {
+        "text": "Interactions for Vitamin B2 (Riboflavin):  Alcohol - impairs the intestinal absorption of riboflavin",
+        "triple_list": [
+            [
+                "Vitamin B2",
+                "false",
+                "Riboflavin"
+            ],
+            [
+                "Vitamin B2",
+                "false",
+                "Alcohol"
+            ],
+            [
+                "Vitamin B2",
+                "false",
+                "riboflavin"
+            ],
+            [
+                "Riboflavin",
+                "false",
+                "Alcohol"
+            ],
+            [
+                "Riboflavin",
+                "false",
+                "riboflavin"
+            ],
+            [
+                "Alcohol",
+                "mechanism",
+                "riboflavin"
+            ]
+        ]
+    },
+    {
+        "text": "Drug Interactions: The use of ZEMURON    (rocuronium bromide) Injection before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.",
+        "triple_list": [
+            [
+                "ZEMURON",
+                "false",
+                "rocuronium bromide"
+            ],
+            [
+                "ZEMURON",
+                "false",
+                "succinylcholine"
+            ],
+            [
+                "ZEMURON",
+                "false",
+                "succinylcholine"
+            ],
+            [
+                "rocuronium bromide",
+                "false",
+                "succinylcholine"
+            ],
+            [
+                "rocuronium bromide",
+                "false",
+                "succinylcholine"
+            ],
+            [
+                "succinylcholine",
+                "false",
+                "succinylcholine"
+            ]
+        ]
+    },
+    {
+        "text": "Thus strong inhibitors of cytochrome P4501A2, such as fluvoxamine, given concomitantly during administration of Ropivacaine, can interact with Ropivacaine leading to increased ropivacaine plasma levels.",
+        "triple_list": [
+            [
+                "fluvoxamine",
+                "int",
+                "Ropivacaine"
+            ],
+            [
+                "fluvoxamine",
+                "false",
+                "Ropivacaine"
+            ],
+            [
+                "fluvoxamine",
+                "false",
+                "ropivacaine"
+            ],
+            [
+                "Ropivacaine",
+                "false",
+                "Ropivacaine"
+            ],
+            [
+                "Ropivacaine",
+                "false",
+                "ropivacaine"
+            ],
+            [
+                "Ropivacaine",
+                "false",
+                "ropivacaine"
+            ]
+        ]
+    },
+    {
+        "text": "Coadministration of a selective and potent inhibitor of CYP3A4, ketoconazole (100 mg bid for 2 days with ropivacaine infusion administered 1 hour after ketoconazole) caused a 15% reduction in in-vivo plasma clearance of ropivacaine.",
+        "triple_list": [
+            [
+                "ketoconazole",
+                "false",
+                "ropivacaine"
+            ],
+            [
+                "ketoconazole",
+                "false",
+                "ketoconazole"
+            ],
+            [
+                "ketoconazole",
+                "mechanism",
+                "ropivacaine"
+            ],
+            [
+                "ropivacaine",
+                "false",
+                "ketoconazole"
+            ],
+            [
+                "ropivacaine",
+                "false",
+                "ropivacaine"
+            ],
+            [
+                "ketoconazole",
+                "false",
+                "ropivacaine"
+            ]
+        ]
+    },
+    {
+        "text": "An inhibitor of CYP2C8 (such as gemfibrozil) may increase the AUC of rosiglitazone and an inducer of CYP2C8 (such as rifampin) may decrease the AUC of rosiglitazone.",
+        "triple_list": [
+            [
+                "gemfibrozil",
+                "mechanism",
+                "rosiglitazone"
+            ],
+            [
+                "gemfibrozil",
+                "false",
+                "rifampin"
+            ],
+            [
+                "gemfibrozil",
+                "false",
+                "rosiglitazone"
+            ],
+            [
+                "rosiglitazone",
+                "false",
+                "rifampin"
+            ],
+            [
+                "rosiglitazone",
+                "false",
+                "rosiglitazone"
+            ],
+            [
+                "rifampin",
+                "mechanism",
+                "rosiglitazone"
+            ]
+        ]
+    },
+    {
+        "text": "Although such a reaction has not been demonstrated with roxithromycin, concomitant administration of roxithromycin with terfenadine or astemizole is not recommended.",
+        "triple_list": [
+            [
+                "roxithromycin",
+                "false",
+                "roxithromycin"
+            ],
+            [
+                "roxithromycin",
+                "false",
+                "terfenadine"
+            ],
+            [
+                "roxithromycin",
+                "false",
+                "astemizole"
+            ],
+            [
+                "roxithromycin",
+                "advise",
+                "terfenadine"
+            ],
+            [
+                "roxithromycin",
+                "advise",
+                "astemizole"
+            ],
+            [
+                "terfenadine",
+                "false",
+                "astemizole"
+            ]
+        ]
+    },
+    {
+        "text": "ASPIRIN AND OTHER SALICYLATE DRUGS WILL BE ADDITIVE TO DISALCID AND MAY INCREASE PLASMA CONCENTRATIONS OF SALICYLIC ACID TO TOXIC LEVELS.",
+        "triple_list": [
+            [
+                "ASPIRIN",
+                "false",
+                "SALICYLATE DRUGS"
+            ],
+            [
+                "ASPIRIN",
+                "effect",
+                "DISALCID"
+            ],
+            [
+                "ASPIRIN",
+                "false",
+                "SALICYLIC ACID"
+            ],
+            [
+                "SALICYLATE DRUGS",
+                "effect",
+                "DISALCID"
+            ],
+            [
+                "SALICYLATE DRUGS",
+                "false",
+                "SALICYLIC ACID"
+            ],
+            [
+                "DISALCID",
+                "false",
+                "SALICYLIC ACID"
+            ]
+        ]
+    },
+    {
+        "text": "Scopolamine should be used with care in patients taking other drugs that are capable of causing CNS effects such as sedatives, tranquilizers, or alcohol.",
+        "triple_list": [
+            [
+                "Scopolamine",
+                "advise",
+                "sedatives"
+            ],
+            [
+                "Scopolamine",
+                "advise",
+                "tranquilizers"
+            ],
+            [
+                "Scopolamine",
+                "advise",
+                "alcohol"
+            ],
+            [
+                "sedatives",
+                "false",
+                "tranquilizers"
+            ],
+            [
+                "sedatives",
+                "false",
+                "alcohol"
+            ],
+            [
+                "tranquilizers",
+                "false",
+                "alcohol"
+            ]
+        ]
+    },
+    {
+        "text": "Severe toxicity has also been reported in patients receiving the combination of tricyclic antidepressants and ELDEPRYL and selective serotonin reuptake inhibitors and ELDEPRYL.",
+        "triple_list": [
+            [
+                "tricyclic antidepressants",
+                "effect",
+                "ELDEPRYL"
+            ],
+            [
+                "tricyclic antidepressants",
+                "false",
+                "selective serotonin reuptake inhibitors"
+            ],
+            [
+                "tricyclic antidepressants",
+                "false",
+                "ELDEPRYL"
+            ],
+            [
+                "ELDEPRYL",
+                "false",
+                "selective serotonin reuptake inhibitors"
+            ],
+            [
+                "ELDEPRYL",
+                "false",
+                "ELDEPRYL"
+            ],
+            [
+                "selective serotonin reuptake inhibitors",
+                "effect",
+                "ELDEPRYL"
+            ]
+        ]
+    },
+    {
+        "text": "Patients with Congenital or Acquired QT Prolongation In a study of the effect of solifenacin on the QT interval in 76 healthy women, the QT prolonging effect appeared less with solifenacin 10 mg than with 30 mg (three times the maximum recommended dose), and the effect of solifenacin 30 mg did not appear as large as that of the positive control moxifloxacin at its therapeutic dose.",
+        "triple_list": [
+            [
+                "solifenacin",
+                "false",
+                "solifenacin"
+            ],
+            [
+                "solifenacin",
+                "false",
+                "solifenacin"
+            ],
+            [
+                "solifenacin",
+                "false",
+                "moxifloxacin"
+            ],
+            [
+                "solifenacin",
+                "false",
+                "solifenacin"
+            ],
+            [
+                "solifenacin",
+                "false",
+                "moxifloxacin"
+            ],
+            [
+                "solifenacin",
+                "false",
+                "moxifloxacin"
+            ]
+        ]
+    },
+    {
+        "text": "Sulfamethizole may increase the effects of barbiturates, tolbutamide, and uricosurics.",
+        "triple_list": [
+            [
+                "Sulfamethizole",
+                "effect",
+                "barbiturates"
+            ],
+            [
+                "Sulfamethizole",
+                "effect",
+                "tolbutamide"
+            ],
+            [
+                "Sulfamethizole",
+                "effect",
+                "uricosurics"
+            ],
+            [
+                "barbiturates",
+                "false",
+                "tolbutamide"
+            ],
+            [
+                "barbiturates",
+                "false",
+                "uricosurics"
+            ],
+            [
+                "tolbutamide",
+                "false",
+                "uricosurics"
+            ]
+        ]
+    },
+    {
+        "text": "Sulfoxone may increase the effects of barbiturates, tolbutamide, and uricosurics.",
+        "triple_list": [
+            [
+                "Sulfoxone",
+                "effect",
+                "barbiturates"
+            ],
+            [
+                "Sulfoxone",
+                "effect",
+                "tolbutamide"
+            ],
+            [
+                "Sulfoxone",
+                "effect",
+                "uricosurics"
+            ],
+            [
+                "barbiturates",
+                "false",
+                "tolbutamide"
+            ],
+            [
+                "barbiturates",
+                "false",
+                "uricosurics"
+            ],
+            [
+                "tolbutamide",
+                "false",
+                "uricosurics"
+            ]
+        ]
+    },
+    {
+        "text": "In a study in which 34 different drugs were tested, therapeutically relevant concentrations of tolbutamide, sodium salicylate and sulfamethizole displaced protein-bound teniposide in fresh human serum to a small but significant extent.",
+        "triple_list": [
+            [
+                "tolbutamide",
+                "false",
+                "sodium salicylate"
+            ],
+            [
+                "tolbutamide",
+                "false",
+                "sulfamethizole"
+            ],
+            [
+                "tolbutamide",
+                "mechanism",
+                "teniposide"
+            ],
+            [
+                "sodium salicylate",
+                "false",
+                "sulfamethizole"
+            ],
+            [
+                "sodium salicylate",
+                "mechanism",
+                "teniposide"
+            ],
+            [
+                "sulfamethizole",
+                "mechanism",
+                "teniposide"
+            ]
+        ]
+    },
+    {
+        "text": "This may be of clinical relevance for compounds predominantly metabolized by this enzyme, such as tricyclic antidepressants,    -blockers, selective serotonin reuptake inhibitors (SSRIs), and monoamine oxidase inhibitors (MAO-Is) Type B, if they have a narrow therapeutic window.",
+        "triple_list": [
+            [
+                "tricyclic antidepressants",
+                "false",
+                "selective serotonin reuptake inhibitors"
+            ],
+            [
+                "tricyclic antidepressants",
+                "false",
+                "SSRIs"
+            ],
+            [
+                "tricyclic antidepressants",
+                "false",
+                "monoamine oxidase inhibitors (MAO-Is) Type B"
+            ],
+            [
+                "selective serotonin reuptake inhibitors",
+                "false",
+                "SSRIs"
+            ],
+            [
+                "selective serotonin reuptake inhibitors",
+                "false",
+                "monoamine oxidase inhibitors (MAO-Is) Type B"
+            ],
+            [
+                "SSRIs",
+                "false",
+                "monoamine oxidase inhibitors (MAO-Is) Type B"
+            ]
+        ]
+    },
+    {
+        "text": "There is usually complete cross-resistance between PURINETHOL (mercaptopurine) and TABLOID brand Thioguanine.",
+        "triple_list": [
+            [
+                "PURINETHOL",
+                "false",
+                "mercaptopurine"
+            ],
+            [
+                "PURINETHOL",
+                "effect",
+                "TABLOID"
+            ],
+            [
+                "PURINETHOL",
+                "effect",
+                "Thioguanine"
+            ],
+            [
+                "mercaptopurine",
+                "effect",
+                "TABLOID"
+            ],
+            [
+                "mercaptopurine",
+                "effect",
+                "Thioguanine"
+            ],
+            [
+                "TABLOID",
+                "false",
+                "Thioguanine"
+            ]
+        ]
+    },
+    {
+        "text": "In adult diabetic patients under treatment with either sulfonylureas or insulin there is no change in the clinical effects of either TOLECTIN or the hypoglycemic agents.",
+        "triple_list": [
+            [
+                "sulfonylureas",
+                "false",
+                "insulin"
+            ],
+            [
+                "sulfonylureas",
+                "false",
+                "TOLECTIN"
+            ],
+            [
+                "sulfonylureas",
+                "false",
+                "hypoglycemic agents"
+            ],
+            [
+                "insulin",
+                "false",
+                "TOLECTIN"
+            ],
+            [
+                "insulin",
+                "false",
+                "hypoglycemic agents"
+            ],
+            [
+                "TOLECTIN",
+                "false",
+                "hypoglycemic agents"
+            ]
+        ]
+    },
+    {
+        "text": "TOLECTIN and other nonsteroidal anti-inflammatory drugs have been reported to reduce the tubular secretion of methotrexate in an animal model, possibly enhancing the toxicity of methotrexate.",
+        "triple_list": [
+            [
+                "TOLECTIN",
+                "false",
+                "nonsteroidal anti-inflammatory drugs"
+            ],
+            [
+                "TOLECTIN",
+                "mechanism",
+                "methotrexate"
+            ],
+            [
+                "TOLECTIN",
+                "false",
+                "methotrexate"
+            ],
+            [
+                "nonsteroidal anti-inflammatory drugs",
+                "mechanism",
+                "methotrexate"
+            ],
+            [
+                "nonsteroidal anti-inflammatory drugs",
+                "false",
+                "methotrexate"
+            ],
+            [
+                "methotrexate",
+                "false",
+                "methotrexate"
+            ]
+        ]
+    },
+    {
+        "text": "Administration of paclitaxel in combination with HERCEPTIN resulted in a two-fold decrease in HERCEPTIN clearance in a non-human primate study and in a 1.5-fold increase in HERCEPTIN serum levels in clinical studies.",
+        "triple_list": [
+            [
+                "paclitaxel",
+                "mechanism",
+                "HERCEPTIN"
+            ],
+            [
+                "paclitaxel",
+                "false",
+                "HERCEPTIN"
+            ],
+            [
+                "paclitaxel",
+                "false",
+                "HERCEPTIN"
+            ],
+            [
+                "HERCEPTIN",
+                "false",
+                "HERCEPTIN"
+            ],
+            [
+                "HERCEPTIN",
+                "false",
+                "HERCEPTIN"
+            ],
+            [
+                "HERCEPTIN",
+                "false",
+                "HERCEPTIN"
+            ]
+        ]
+    },
+    {
+        "text": "The effects of anticholinergic drugs, such as atropine and tricyclic antidepressants may be enhanced by the concomitant administration of triprolidine.",
+        "triple_list": [
+            [
+                "anticholinergic drugs",
+                "false",
+                "atropine"
+            ],
+            [
+                "anticholinergic drugs",
+                "false",
+                "tricyclic antidepressants"
+            ],
+            [
+                "anticholinergic drugs",
+                "effect",
+                "triprolidine"
+            ],
+            [
+                "atropine",
+                "false",
+                "tricyclic antidepressants"
+            ],
+            [
+                "atropine",
+                "effect",
+                "triprolidine"
+            ],
+            [
+                "tricyclic antidepressants",
+                "effect",
+                "triprolidine"
+            ]
+        ]
+    },
+    {
+        "text": "Other HDAC Inhibitors Severe thrombocytopenia and gastrointestinal bleeding have been reported with concomitant use of ZOLINZA and other HDAC inhibitors (e.g., valproic acid).",
+        "triple_list": [
+            [
+                "HDAC Inhibitors",
+                "false",
+                "ZOLINZA"
+            ],
+            [
+                "HDAC Inhibitors",
+                "false",
+                "HDAC inhibitors"
+            ],
+            [
+                "HDAC Inhibitors",
+                "false",
+                "valproic acid"
+            ],
+            [
+                "ZOLINZA",
+                "effect",
+                "HDAC inhibitors"
+            ],
+            [
+                "ZOLINZA",
+                "effect",
+                "valproic acid"
+            ],
+            [
+                "HDAC inhibitors",
+                "false",
+                "valproic acid"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "0": "false",
+        "1": "effect",
+        "2": "int",
+        "3": "advise",
+        "4": "mechanism"
+    },
+    {
+        "false": 0,
+        "effect": 1,
+        "int": 2,
+        "advise": 3,
+        "mechanism": 4
+    }
+]
