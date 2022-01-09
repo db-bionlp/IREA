@@ -1,5 +1,4 @@
-# PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction
-This repository contains the source code and dataset for the paper: **PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction.** Hengyi Zheng, Rui Wen, Xi Chen et al. ACL 2021.
+# A joint drug-drug interaction relationship extraction framework based on implicit relationships and entity alignment
 
 ## Overview
 
