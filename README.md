@@ -8,8 +8,8 @@
 
 The main requirements are:
 
-  - python==3.7.9
-  - pytorch==1.6.0
+  - python==3.6.9
+  - pytorch==1.7.0
   - transformers==3.2.0
   - tqdm
 
@@ -23,45 +23,24 @@ Or you can just download our preprocessed [datasets](https://drive.google.com/fi
 
 ## Usage
 
-**1. Get pre-trained BERT model for PyTorch**
+**1. Build Data**
 
-Download [BERT-Base-Cased](https://huggingface.co/bert-base-cased/tree/main) which contains `pytroch_model.bin`, `vocab.txt` and `config.json`. Put these under `./pretrain_models`.
+Put our preprocessed datasets under `./datasets`.
 
-**2. Build Data**
-
-Put our preprocessed datasets under `./data`.
-
-**3. Train**
+**2. Train**
 
 Just run the script in `./script` by `sh train.sh`.
 
-For example, to train the model for NYT* dataset, update the `train.sh` as:
+For example, to train the model for DDI dataset, update the `train.sh` as:
 
 ```
-python ../train.py \
---ex_index=1 \
+python3 main.py \
+--data_dir dataset/DDI_2013 \
 --epoch_num=100 \
---device_id=0 \
---corpus_type=NYT-star \
---ensure_corres \
---ensure_rel
-```
-
-**4. Evaluate**
-
-Just run the script in `./script` by `sh evaluate.sh`.
-
-For example, to train the model for NYT* dataset, update the `evaluate.sh` as:
-
-```
-python ../evaluate.py \
---ex_index=1 \
---device_id=0 \
---mode=test \
---corpus_type=NYT-star \
---ensure_corres \
---ensure_rel \
---corres_threshold=0.5 \
---rel_threshold=0.1
+--max_seq_length=128 \
+--bert_model_dir allenai/scibert_scivocab_cased \
+--train_batch_size 16 \
+--val_batch_size 16 \
+--model_dir saved_model/DDI_2013
 ```
 
