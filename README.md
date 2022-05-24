@@ -3,6 +3,10 @@
 ## Overview
 
  ![image](img/IREA_model_.png)
+ 
+## Example data
+
+![image](img/data_example.png)
 
 ## Requirements
 
