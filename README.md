@@ -20,6 +20,10 @@ The main requirements are:
 
 ## Dataset
 
+## resouces
+
+* The pre-training model we used is scibert, which you can find here https://github.com/dmis-lab/biobert.
+* The biobertT pre-training model for the comparison experiment can be found here https://github.com/allenai/scibert.
 
 ## Usage
 
