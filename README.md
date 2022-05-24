@@ -1,4 +1,4 @@
-# A joint drug-drug interaction relationship extraction framework based on implicit relationships and entity alignment
+# IREA: A Framework for Drug-drug Interaction Relationship Extraction based on Relationships to Entities
 
 ## Overview
 
