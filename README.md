@@ -15,7 +15,8 @@ The main requirements are:
   - python==3.6.9
   - pytorch==1.7.0
   - transformers==3.2.0
-  - tqdm
+  - scipy == 1.4.1
+  -scikit-learn == 0.24.1
 
 ## Dataset
 
