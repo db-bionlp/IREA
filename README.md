@@ -18,7 +18,6 @@ The main requirements are:
   - scipy == 1.4.1
   -scikit-learn == 0.24.1
 
-## Dataset
 
 ## resouces
 
